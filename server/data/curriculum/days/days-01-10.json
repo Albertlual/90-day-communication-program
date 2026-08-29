@@ -1,0 +1,1254 @@
+[
+  {
+    "dayNumber": 1,
+    "phase": "foundation",
+    "theme": "Finding Your Professional Voice",
+    "isMilestone": false,
+    "reviewFocus": null,
+    "tongueTwister": {
+      "text": "Red lorry, yellow lorry, red lorry, yellow lorry.",
+      "difficulty": "beginner",
+      "focusSound": "L/R alternation",
+      "repetitionTarget": 5
+    },
+    "reading": {
+      "title": "Clarity Before Cleverness",
+      "author": null,
+      "sourceType": "original",
+      "content": "Most professional communication fails for a simple reason: the speaker or writer tries to sound impressive before they try to be understood. A finance officer who says 'there was a negative variance in Q2 attributable to unforeseen procurement lead-time extensions' has said something true, but a manager hearing it for the first time has to work to extract the actual message: costs were higher than planned because a delivery was late.\n\nClear communicators do the extraction work themselves, before they speak. They ask: what does the listener actually need to know, and in what order? Usually the answer is the conclusion first, then the reason, then any detail the listener specifically asks for. This is uncomfortable at first, because it can feel like you're skipping the 'proof' of your competence — the technical vocabulary, the full process you followed. But listeners rarely doubt your competence because you explained something simply. They doubt it when they can't follow what you said.\n\nThis matters especially in finance, logistics, and procurement roles, where the people you report to — a programme manager, a donor, a supplier — often don't share your technical background. Their time is limited and their attention is split across many updates from many people. A report or explanation that leads with the headline respects that reality. One that leads with process detail asks the listener to do work they didn't sign up for.\n\nThe goal of today's practice is not to sound less knowledgeable. It's to put your knowledge in a shape someone else can actually use. That is a skill, separate from the knowledge itself, and it is one you can deliberately build — starting with how you read, and then how you speak.",
+      "estimatedMinutes": 2,
+      "keyConcepts": [
+        "Lead with the conclusion, not the process",
+        "Match explanation to the listener's background",
+        "Technical vocabulary is not proof of competence",
+        "Clarity is a separate, learnable skill"
+      ]
+    },
+    "reflectionQuestions": [
+      "In one sentence, what is the main argument of today's reading?",
+      "Describe a recent report, email, or update where you (or someone you work with) buried the main point instead of leading with it.",
+      "Rewrite one sentence from the reading in your own words, as if explaining it to a colleague.",
+      "What is one question this reading leaves you with?"
+    ],
+    "speedReading": {
+      "passage": "Research on first impressions suggests that listeners form an initial judgment of a speaker within the first several seconds of an interaction — often before the speaker has said anything substantive. That judgment is shaped by two things working together: how the message is delivered, and what is said. Tone, pace, posture, and eye contact carry a surprising amount of weight, sometimes more than the actual words chosen.\n\nThis is uncomfortable for people who assume that strong content should be enough to carry a conversation or interview. In practice, a well-organized answer delivered with a flat, uncertain tone often lands worse than a shorter, plainer answer delivered with steady pace and clear eye contact. The two are not competing; they reinforce each other. Strong content delivered clearly is what actually changes a listener's mind.\n\nThe opening line of an interaction does disproportionate work. In an interview, the first sentence of 'tell me about yourself' sets the frame the interviewer will use to interpret everything that follows. In a meeting, the first sentence of an update tells colleagues whether the news is good, bad, or routine — and how closely they need to listen. A vague or hesitant opening line forces the listener to guess at that frame themselves, which increases the mental effort required to follow the rest of what you say.\n\nA practical habit worth building: before speaking in a professional setting, decide on your opening sentence in advance — not a full script, just one clear sentence that states your main point or identity. Everything else can be organized around that sentence. This does not eliminate nervousness, but it removes one major source of hesitation: not knowing where to start.",
+      "wordCount": 282,
+      "comprehensionQuestions": [
+        "According to the passage, what two things shape a first impression together?",
+        "What example does the passage give of a strong-content answer landing worse than a plainer one?",
+        "What practical habit does the passage recommend building before speaking in a professional setting?"
+      ]
+    },
+    "vocabulary": [
+      {
+        "term": "Conciseness",
+        "category": "Professional Communication",
+        "simpleDefinition": "Saying what you mean in as few words as needed, without leaving out anything important.",
+        "professionalDefinition": "The practice of communicating a complete message with the minimum necessary length, prioritizing the listener's time and attention.",
+        "exampleSentence": "Her update was a model of conciseness — three sentences that covered status, risk, and next step.",
+        "workplaceExample": "Instead of a five-minute explanation, a concise stock update might be: 'We're at 60% of target inventory, the shortfall is due to a delayed shipment, and it should arrive Thursday.'",
+        "relatedTerms": [
+          "Audience awareness"
+        ]
+      },
+      {
+        "term": "Audience awareness",
+        "category": "Professional Communication",
+        "simpleDefinition": "Thinking about who is listening and what they already know before you speak.",
+        "professionalDefinition": "The practice of tailoring content, vocabulary, and level of detail to the background and needs of a specific listener.",
+        "exampleSentence": "Good audience awareness meant she explained the budget variance without using accounting jargon with the programme team.",
+        "workplaceExample": "Explaining 'accounts payable' to a finance colleague is different from explaining it to a field logistics officer — the second explanation needs a plain-language version.",
+        "relatedTerms": [
+          "Conciseness",
+          "PREP framework"
+        ]
+      },
+      {
+        "term": "Filler words",
+        "category": "Professional Communication",
+        "simpleDefinition": "Words like 'um,' 'like,' or 'basically' that fill silence but don't add meaning.",
+        "professionalDefinition": "Non-substantive verbal placeholders used unconsciously during speech, often signaling uncertainty or unpreparedness to the listener.",
+        "exampleSentence": "Cutting filler words from his answers made him sound noticeably more confident, even though the content didn't change.",
+        "workplaceExample": "Replacing 'um, so, basically what happened was...' with a short pause and then 'The shipment was delayed' is more professional and easier to follow.",
+        "relatedTerms": [
+          "Professional presence"
+        ]
+      },
+      {
+        "term": "Active listening",
+        "category": "Professional Communication",
+        "simpleDefinition": "Fully concentrating on what someone is saying, rather than just waiting for your turn to speak.",
+        "professionalDefinition": "A communication practice involving full attention, verbal and non-verbal acknowledgment, and reflective confirmation of a speaker's message before responding.",
+        "exampleSentence": "Active listening in the meeting meant she repeated back the supplier's concern before responding to it.",
+        "workplaceExample": "In a handover meeting, active listening looks like taking notes and asking 'so if I understand correctly, the issue is X?' before replying.",
+        "relatedTerms": [
+          "Audience awareness"
+        ]
+      },
+      {
+        "term": "Elevator pitch",
+        "category": "Professional Communication",
+        "simpleDefinition": "A very short, clear summary of who you are or what you do, short enough to say during a brief elevator ride.",
+        "professionalDefinition": "A concise, structured self-introduction or proposal summary, typically 30–60 seconds, designed to communicate the core message quickly to any audience.",
+        "exampleSentence": "His elevator pitch covered his background, his current focus, and what he was looking for, in under 45 seconds.",
+        "workplaceExample": "At a networking event, an elevator pitch might be: 'I'm a finance and logistics professional with experience supporting humanitarian programmes — currently focused on strengthening my reporting and interview skills.'",
+        "relatedTerms": [
+          "Conciseness",
+          "PREP framework"
+        ]
+      },
+      {
+        "term": "PREP framework",
+        "category": "Professional Communication",
+        "simpleDefinition": "A simple way to structure a spoken answer: Point, Reason, Example, Point.",
+        "professionalDefinition": "A four-part response structure — stating a main point, giving the reason behind it, illustrating with a concrete example, then restating the point — used to keep spoken answers organized and persuasive.",
+        "exampleSentence": "She used the PREP framework to answer the interview question without rambling.",
+        "workplaceExample": "Point: 'I recommend we switch suppliers.' Reason: 'The current supplier has missed three delivery windows.' Example: 'Last month's delay pushed back distribution by a week.' Point: 'Switching reduces that risk going forward.'",
+        "relatedTerms": [
+          "Audience awareness"
+        ]
+      }
+    ],
+    "speakingScenarios": [
+      {
+        "situation": "In a job interview, the interviewer opens with: 'Tell me about yourself.'",
+        "category": "Interview",
+        "framework": "PREP",
+        "guidance": "Keep this to 60–90 seconds. Don't recite your CV chronologically — lead with a one-sentence professional identity (your Point), briefly explain why that identity fits this kind of role (your Reason), give one concrete example from your background (your Example), then close by restating your focus or what you're aiming for next (your Point again). Resist the urge to list every job and task.",
+        "modelAnswer": "I'm a finance and logistics professional with hands-on experience supporting humanitarian operations. Most recently, as a Logistics and Administrative Assistant with Mayar Medical Centre, I supported procurement coordination and inventory tracking, and earlier, as a Finance and Administrative Assistant with Favor Africa Ministries International, I handled financial record-keeping and reporting. That combination — finance discipline plus logistics coordination — is why I'm comfortable working across both sides of an operation. I hold a Bachelor's degree in Business Administration with a focus on Accounting, along with training in procurement, supply chain, and computerised accounting including QuickBooks. Right now I'm focused on strengthening how clearly and confidently I communicate that experience, which is part of why I'm glad to be having this conversation."
+      },
+      {
+        "situation": "Your supervisor stops by and asks for a quick update on a task you're handling.",
+        "category": "Workplace Communication",
+        "framework": "Headline → Detail → Next Step",
+        "guidance": "Open with the headline — the one-sentence status. Then add only the detail your supervisor needs to act or decide. Close with what happens next and whether you need anything from them. Avoid narrating everything you did in order.",
+        "modelAnswer": "The stock count for warehouse B is complete — we're at 92% of target, with the shortfall mainly in medical consumables. I've flagged the gap to the supplier for a top-up delivery next week. No action needed from you right now, but I'll let you know if the delivery date slips."
+      }
+    ]
+  },
+  {
+    "dayNumber": 2,
+    "phase": "foundation",
+    "theme": "The Procurement Cycle",
+    "isMilestone": false,
+    "reviewFocus": null,
+    "tongueTwister": {
+      "text": "Procurement plans prevent poor performance.",
+      "difficulty": "beginner",
+      "focusSound": "P plosive repetition",
+      "repetitionTarget": 5
+    },
+    "reading": {
+      "title": "The Procurement Cycle, Start to Finish",
+      "author": null,
+      "sourceType": "original",
+      "content": "Procurement can look, from the outside, like a single action: someone needs something, so someone buys it. In practice it is a sequence of distinct stages, and understanding that sequence is what lets a procurement professional explain delays, catch problems early, and set realistic expectations for colleagues waiting on a purchase.\n\nThe cycle typically starts with need identification — a department determines it requires goods or services and defines the specification. This becomes a requisition: a formal internal request that captures quantity, specification, and budget line. From there, procurement moves into sourcing, where potential suppliers are identified, and — depending on value and policy — a tendering process may follow, inviting competitive bids or quotations.\n\nBids are evaluated against defined criteria: price, quality, delivery time, and supplier reliability among them. This evaluation stage matters more than it might seem, because a purchase decision made only on price often creates problems later — a cheaper supplier with a poor delivery record can cost more in delays than it saves in unit price. Once a supplier is selected, a purchase order is issued, formalizing the agreement in writing.\n\nThe final stages are delivery and payment: goods or services are received and verified against the purchase order, and payment is processed according to agreed terms. Skipping the verification step — accepting a delivery without checking it against what was ordered — is one of the most common sources of later disputes.\n\nEach stage in this cycle has its own typical delay points, which is why 'the order hasn't arrived yet' is rarely a full explanation. Knowing the stages lets you say, specifically, where a purchase currently sits — and that specificity is what colleagues actually need to hear.",
+      "estimatedMinutes": 2,
+      "keyConcepts": [
+        "Procurement is a sequence of stages, not one action",
+        "Evaluation criteria beyond price prevent costly delays",
+        "Verification at delivery prevents disputes",
+        "Naming the specific stage of a delay is more useful than a vague update"
+      ]
+    },
+    "reflectionQuestions": [
+      "Summarize the procurement cycle in three or four steps, in your own words.",
+      "Which stage of the procurement cycle do you think is most often rushed, and what problems could that cause?",
+      "What is one idea from this reading you could apply directly to how you explain a procurement delay to a colleague?",
+      "What part of the procurement cycle would you like to understand in more depth?"
+    ],
+    "speedReading": {
+      "passage": "When a purchase order takes longer than expected, it's tempting to describe the whole process as 'stuck,' but delays almost always trace back to one of a small number of specific causes. Recognizing which one is happening is the first step to explaining it clearly — and often to preventing it next time.\n\nThe most common cause is an incomplete or unclear specification at the requisition stage. If the request doesn't specify exact quantities, technical standards, or delivery location clearly enough, the sourcing team has to go back and clarify, which adds days before a supplier is even contacted. A second common cause is supplier availability: the preferred supplier may be out of stock, or unable to meet the required delivery window, forcing a search for alternatives.\n\nA third cause sits at the approval stage. Many organizations require sign-off above a certain value threshold, and if the approver is unavailable — travelling, on leave, or simply behind on email — the purchase order can sit waiting for a signature for days without any technical problem at all. This is often the most frustrating cause for colleagues waiting on the item, because nothing appears to be happening, even though nothing is actually wrong.\n\nA fourth cause is logistics itself: even after a purchase order is issued and a supplier confirms, transport time, customs clearance for imported goods, or last-mile delivery to a remote site can add significant time that has nothing to do with the procurement decision itself.\n\nThe practical lesson is that 'procurement is slow' is rarely a complete diagnosis. A procurement professional who can say, specifically, which of these four stages is causing a delay gives colleagues something they can plan around — and often reveals whether the delay is preventable or simply has to be waited out.",
+      "wordCount": 299,
+      "comprehensionQuestions": [
+        "Name two of the four causes of procurement delay described in the passage.",
+        "Why does the passage say the approval-stage delay is often the most frustrating for waiting colleagues?",
+        "According to the passage, what does correctly diagnosing the cause of a delay let a procurement professional do?"
+      ]
+    },
+    "vocabulary": [
+      {
+        "term": "Purchase order",
+        "category": "Procurement",
+        "simpleDefinition": "A formal document confirming what's being bought, how much, and at what price.",
+        "professionalDefinition": "A legally binding document issued by a buyer to a supplier, formalizing the terms of a purchase including item, quantity, price, and delivery terms.",
+        "exampleSentence": "No goods should be delivered before the purchase order is issued and confirmed.",
+        "workplaceExample": "Finance will not process payment without a matching purchase order and delivery note.",
+        "relatedTerms": [
+          "Requisition",
+          "Tendering"
+        ]
+      },
+      {
+        "term": "Tendering",
+        "category": "Procurement",
+        "simpleDefinition": "Inviting several suppliers to compete for a contract by submitting offers.",
+        "professionalDefinition": "A formal, competitive process of inviting bids or quotations from multiple suppliers to ensure fair pricing and compliance with procurement policy.",
+        "exampleSentence": "Because the contract value exceeded the threshold, the purchase required open tendering rather than a direct order.",
+        "workplaceExample": "The office ran a tender for the annual stationery supply contract, receiving quotes from four vendors.",
+        "relatedTerms": [
+          "Purchase order",
+          "Supplier evaluation"
+        ]
+      },
+      {
+        "term": "Supplier evaluation",
+        "category": "Procurement",
+        "simpleDefinition": "Judging a supplier on more than just price — also reliability, quality, and delivery.",
+        "professionalDefinition": "A structured assessment of potential or existing suppliers against defined criteria such as price, quality, delivery reliability, and compliance history.",
+        "exampleSentence": "Supplier evaluation showed that the cheaper vendor had a poor on-time delivery record.",
+        "workplaceExample": "Before renewing a contract, the team ran a supplier evaluation covering the past year's delivery performance.",
+        "relatedTerms": [
+          "Tendering",
+          "Supplier performance"
+        ]
+      },
+      {
+        "term": "Requisition",
+        "category": "Procurement",
+        "simpleDefinition": "A formal internal request asking for something to be purchased.",
+        "professionalDefinition": "An internal document initiating the procurement process, specifying the item, quantity, budget line, and justification for a purchase.",
+        "exampleSentence": "The requisition was returned because the quantity and specification didn't match.",
+        "workplaceExample": "Before ordering new laptops, the IT officer submitted a requisition for approval.",
+        "relatedTerms": [
+          "Purchase order"
+        ]
+      },
+      {
+        "term": "Lead time",
+        "category": "Procurement",
+        "simpleDefinition": "How long it takes between placing an order and receiving it.",
+        "professionalDefinition": "The total elapsed time between initiating a procurement request and the goods or services being delivered and available for use.",
+        "exampleSentence": "The supplier's stated lead time was two weeks, but customs clearance added another ten days.",
+        "workplaceExample": "Because of the long lead time on imported spare parts, the team started ordering a month ahead of need.",
+        "relatedTerms": [
+          "Procurement plan"
+        ]
+      },
+      {
+        "term": "Procurement plan",
+        "category": "Procurement",
+        "simpleDefinition": "A schedule that maps out what needs to be bought, and when, ahead of time.",
+        "professionalDefinition": "A forward-looking document outlining anticipated procurement needs over a period, used to plan sourcing, budgeting, and timing in advance of urgent need.",
+        "exampleSentence": "A procurement plan for the quarter helped the team avoid last-minute emergency purchases.",
+        "workplaceExample": "The procurement plan flagged that generator fuel would need reordering before the rainy season.",
+        "relatedTerms": [
+          "Lead time",
+          "Requisition"
+        ]
+      }
+    ],
+    "speakingScenarios": [
+      {
+        "situation": "Explain the procurement cycle to a new colleague who has never worked in procurement before.",
+        "category": "Procurement",
+        "framework": "3-2-1",
+        "guidance": "Try the 3-2-1 structure: three main steps in the cycle, two things that commonly go wrong, one key point you want them to remember. This keeps a process explanation from turning into a long, unstructured walkthrough.",
+        "modelAnswer": "There are three main steps worth knowing: first, we identify the need and raise a requisition; second, we source and evaluate suppliers, sometimes through a tender; third, we issue a purchase order and manage delivery and payment. Two things commonly go wrong: an unclear requisition that causes back-and-forth clarification, and approval delays when a sign-off is needed above a certain value. The one thing to remember is that 'procurement is slow' usually has a specific cause — if you can tell me which stage something is stuck at, I can usually tell you why."
+      },
+      {
+        "situation": "A colleague asks you why a purchase order they're waiting on is taking so long to process.",
+        "category": "Workplace Communication",
+        "framework": "Problem → Cause → Update",
+        "guidance": "Name the specific problem, give the specific cause (not just 'it's slow'), and end with a concrete next step or timeframe. This turns a vague complaint into a status update the colleague can plan around.",
+        "modelAnswer": "Your order is with the supplier now — it's not stuck internally. The lead time they quoted was two weeks, and we're currently at day nine, so it's on track. I'll flag it to you directly if that changes."
+      }
+    ]
+  },
+  {
+    "dayNumber": 3,
+    "phase": "foundation",
+    "theme": "Supply Chain Basics",
+    "isMilestone": false,
+    "reviewFocus": null,
+    "tongueTwister": {
+      "text": "She sells seashells by the seashore.",
+      "difficulty": "beginner",
+      "focusSound": "S / SH distinction",
+      "repetitionTarget": 5
+    },
+    "reading": {
+      "title": "Supply Chain Basics: From Warehouse to Point of Use",
+      "author": null,
+      "sourceType": "original",
+      "content": "A supply chain is easiest to understand as a sequence of handoffs, each one with its own risk of delay or loss. Goods typically arrive at a central or regional warehouse first, where they're received, checked against delivery documentation, and recorded into inventory. From there, depending on the organization's structure, they may move to a secondary warehouse closer to where they're needed, before finally being distributed to the point of use — a clinic, a project site, an end user.\n\nEach handoff is a moment where two things need to match: the physical goods, and the paperwork describing them. A discrepancy at any handoff — fewer items than the delivery note states, damaged stock, wrong specifications — is far easier to resolve immediately, at the point of handoff, than days or weeks later when the goods have already moved on and memories of exactly what happened have faded.\n\nBuffer stock exists precisely because supply chains are not perfectly predictable. Transport can be delayed by weather, road conditions, or fuel shortages; demand at the point of use can spike unexpectedly. A supply chain with zero buffer looks efficient on paper but breaks under any disruption. The skill is not eliminating buffer stock, but sizing it correctly — enough to absorb realistic disruption, not so much that capital and space are tied up unnecessarily.\n\nSupply chain visibility — knowing where goods currently are, in real time or close to it — is what allows an organization to answer a simple but often difficult question: if something is delayed, where exactly is it, and when will it arrive? Without visibility, that question gets answered with guesswork. With it, it gets answered with a specific location and a specific date.",
+      "estimatedMinutes": 2,
+      "keyConcepts": [
+        "Supply chains are a sequence of handoffs, each with its own risk",
+        "Match physical goods to paperwork at every handoff, immediately",
+        "Buffer stock should be sized to real disruption, not zeroed out or overbuilt",
+        "Supply chain visibility turns guesswork into specific answers"
+      ]
+    },
+    "reflectionQuestions": [
+      "In your own words, what is a 'handoff' in a supply chain, and why does the reading say it's a risk point?",
+      "Why does the reading argue that buffer stock shouldn't be eliminated, even though it ties up resources?",
+      "Explain 'supply chain visibility' as if to someone with no logistics background.",
+      "What question does this reading leave you wanting to ask about supply chains in your own work context?"
+    ],
+    "speedReading": {
+      "passage": "Dispatch — the process of releasing goods from a warehouse for transport to their next destination — sounds like a simple final step, but under time pressure it's often where coordination problems surface most visibly. A common scenario: a field team urgently needs a specific item, the item is confirmed to be in the warehouse, and yet hours pass before it actually leaves the building.\n\nThe gap is rarely about the item itself. It's usually about the steps required to release it correctly: confirming the request against an approved list, updating inventory records so the system reflects what's leaving, arranging transport, and preparing the paperwork that will travel with the goods so the receiving team can verify them on arrival. Skipping any of these steps to save time usually creates a bigger problem later — stock records that don't match reality, or goods that arrive without documentation the receiving site needs.\n\nGood dispatch coordination under pressure depends on clear, fast communication between the person requesting urgent stock and the person releasing it. A request that simply says 'we need it now' is harder to act on than one that specifies exactly what's needed, how much, and where it should go. On the warehouse side, a dispatcher who explains what's actually taking time — 'transport is confirmed, we're just finalizing the delivery note' — gives the requesting team something concrete to work with, rather than silence.\n\nUrgency is real in humanitarian and field operations, and speed matters. But the fastest dispatch is usually not the one that skips steps — it's the one where both sides communicate specifically enough that no step has to be redone. Miscommunication, not process itself, is the more common source of real delay under pressure.",
+      "wordCount": 289,
+      "comprehensionQuestions": [
+        "According to the passage, what is dispatch, and why does it often surface coordination problems?",
+        "What does the passage say usually happens if dispatch steps are skipped to save time?",
+        "What does the passage identify as the more common source of delay under pressure — process, or miscommunication?"
+      ]
+    },
+    "vocabulary": [
+      {
+        "term": "Inventory turnover",
+        "category": "Logistics & Supply Chain",
+        "simpleDefinition": "How quickly stock is used up and replaced over a period of time.",
+        "professionalDefinition": "A measure of how often inventory is sold, used, or replaced within a given period, calculated as cost of goods used divided by average inventory value.",
+        "exampleSentence": "Slow inventory turnover on that item suggested we were over-ordering.",
+        "workplaceExample": "High turnover on essential medical supplies meant the warehouse needed more frequent restocking than initially planned.",
+        "relatedTerms": [
+          "Buffer stock",
+          "Reorder point"
+        ]
+      },
+      {
+        "term": "Stock reconciliation",
+        "category": "Logistics & Supply Chain",
+        "simpleDefinition": "Checking that the physical count of items matches what the records say.",
+        "professionalDefinition": "The process of comparing physical stock counts against inventory system records and investigating and correcting any discrepancies.",
+        "exampleSentence": "Monthly stock reconciliation caught a recording error before it became a bigger problem.",
+        "workplaceExample": "During stock reconciliation, the team found ten fewer units than recorded and traced it to an undocumented distribution.",
+        "relatedTerms": [
+          "Cycle count",
+          "Bin card"
+        ]
+      },
+      {
+        "term": "Dispatch",
+        "category": "Logistics & Supply Chain",
+        "simpleDefinition": "Releasing goods from storage to be transported to where they're needed.",
+        "professionalDefinition": "The formal process of releasing goods from a warehouse or store for onward transport, including verification, documentation, and coordination with transport.",
+        "exampleSentence": "Dispatch was delayed while the delivery note was finalized.",
+        "workplaceExample": "The dispatcher confirmed the item against the approved request before releasing it for transport.",
+        "relatedTerms": [
+          "Distribution",
+          "Supply chain visibility"
+        ]
+      },
+      {
+        "term": "Distribution",
+        "category": "Logistics & Supply Chain",
+        "simpleDefinition": "Getting goods from storage out to the people or places that need them.",
+        "professionalDefinition": "The set of activities involved in moving goods from storage points to their final point of use or end recipient.",
+        "exampleSentence": "Distribution to the three field sites was completed within the planned window.",
+        "workplaceExample": "The distribution schedule prioritized the site with the lowest remaining stock.",
+        "relatedTerms": [
+          "Dispatch"
+        ]
+      },
+      {
+        "term": "Buffer stock",
+        "category": "Logistics & Supply Chain",
+        "simpleDefinition": "Extra stock kept on hand in case of unexpected delays or spikes in demand.",
+        "professionalDefinition": "A reserve quantity of inventory held above immediate need to absorb variability in supply or demand and prevent stockouts.",
+        "exampleSentence": "Buffer stock covered the two-week gap while the delayed shipment was in transit.",
+        "workplaceExample": "The warehouse kept one month of buffer stock on high-demand items, given unpredictable road access in the rainy season.",
+        "relatedTerms": [
+          "Inventory turnover",
+          "Reorder point"
+        ]
+      },
+      {
+        "term": "Supply chain visibility",
+        "category": "Logistics & Supply Chain",
+        "simpleDefinition": "Knowing where your goods currently are, at any point in the process.",
+        "professionalDefinition": "The ability to track and access real-time or near-real-time information about the location and status of goods as they move through the supply chain.",
+        "exampleSentence": "Better supply chain visibility meant the team could tell a donor exactly where a delayed shipment was, instead of guessing.",
+        "workplaceExample": "A simple tracking sheet updated at each handoff gave the office basic supply chain visibility without needing specialized software.",
+        "relatedTerms": [
+          "Dispatch",
+          "Distribution"
+        ]
+      }
+    ],
+    "speakingScenarios": [
+      {
+        "situation": "Explain to a new team member how goods typically move from a supplier to the point of distribution.",
+        "category": "Logistics & Supply Chain",
+        "framework": "PREP",
+        "guidance": "Point: state the overall path in one sentence. Reason: explain briefly why it moves through those stages (checks, storage, transport). Example: walk through one concrete handoff. Point: close by restating the path.",
+        "modelAnswer": "Goods generally move from the supplier to a central warehouse, then out to distribution points closer to where they're needed. That structure exists so every delivery gets checked and recorded before it moves on, catching problems early. For example, when a shipment of medical supplies arrives at the warehouse, we verify the quantity against the delivery note before it's logged into inventory — only after that does it get scheduled for onward distribution. So the short version is: receive and verify, store, then distribute, with a paper trail at every step."
+      },
+      {
+        "situation": "A shipment has been delayed and a colleague at a field site is waiting on it. Explain the situation to them.",
+        "category": "Workplace Communication",
+        "framework": "Problem → Cause → Update",
+        "guidance": "Be specific about the cause rather than saying 'it's delayed.' End with a concrete next step so the colleague isn't left guessing.",
+        "modelAnswer": "The shipment hasn't left the regional warehouse yet — the delay is with the transport provider, not with us. They've confirmed a truck for tomorrow morning. I'll send you the delivery note as soon as it's dispatched, so you'll have advance notice of the exact arrival window."
+      }
+    ]
+  },
+  {
+    "dayNumber": 4,
+    "phase": "foundation",
+    "theme": "Donor Compliance in Practice",
+    "isMilestone": false,
+    "reviewFocus": null,
+    "tongueTwister": {
+      "text": "Donors demand detailed, dependable documentation.",
+      "difficulty": "beginner",
+      "focusSound": "D repetition",
+      "repetitionTarget": 5
+    },
+    "reading": {
+      "title": "What Donor Compliance Really Means in Practice",
+      "author": null,
+      "sourceType": "original",
+      "content": "Donor compliance is often described in abstract terms — following the rules, meeting requirements — but in day-to-day operations it comes down to something more concrete: being able to show, with documentation, that money was spent the way it was agreed it would be spent, and that the intended outcome was actually achieved.\n\nThis has two practical implications. First, documentation has to happen at the time of the activity, not reconstructed afterward. A receipt filed the day of purchase, a distribution list signed at the time of distribution, an approval recorded before an expenditure — these are what auditors and donor representatives look for, because after-the-fact reconstruction is far more prone to error and far less convincing. Second, compliance isn't only about avoiding problems; it's what allows an organization to demonstrate impact credibly. A programme that can show exactly how funds moved from budget line to beneficiary is in a stronger position to secure future funding than one that can only describe its work in general terms.\n\nThere's a natural tension between compliance and speed, especially in humanitarian contexts where needs are urgent. The instinct in an emergency is to act first and document later. Experienced operations staff learn to build lightweight documentation habits that don't meaningfully slow down urgent action — a photo of a distribution list, a same-day expense note — rather than treating documentation as a separate, slower process that competes with the response itself.\n\nUltimately, donor compliance is less a constraint on operations and more a form of institutional memory: a record that lets an organization explain, months or years later, exactly what happened and why. Good compliance habits protect both the funding relationship and the organization's own ability to learn from its work.",
+      "estimatedMinutes": 2,
+      "keyConcepts": [
+        "Compliance means being able to show, not just assert, correct fund use",
+        "Documentation should happen at the time of the activity",
+        "Lightweight documentation habits can coexist with urgent response",
+        "Compliance functions as institutional memory, not just a rule to follow"
+      ]
+    },
+    "reflectionQuestions": [
+      "In your own words, what does the reading say is the real, practical meaning of donor compliance?",
+      "Why does the reading argue that documentation should happen at the time of an activity, not afterward?",
+      "How might 'lightweight documentation habits' work in a fast-moving, urgent situation? Give an example.",
+      "What question would you want to ask a donor compliance officer after reading this?"
+    ],
+    "speedReading": {
+      "passage": "Humanitarian operations often face a real tension between two legitimate priorities: responding quickly enough to meet urgent need, and maintaining enough accountability to satisfy donors, auditors, and the organization's own standards. Framed as a binary choice, this tension seems unsolvable — either you move fast and risk weak documentation, or you document thoroughly and risk moving too slowly to help.\n\nIn practice, experienced operations teams treat this less as a trade-off and more as a design problem: how do you build documentation into the response itself, rather than adding it afterward? A distribution that happens under time pressure can still include a simple signed or thumb-printed list, captured in the moment, without requiring a lengthy separate process. A rapid procurement can still generate a basic record — what was bought, from whom, for how much — even if the full formal paperwork is completed later.\n\nThe teams that handle this best tend to agree in advance on a minimum viable documentation standard for emergency conditions: the smallest set of records that would still allow the organization to account for what happened, without turning every action into a paperwork exercise. This is different from either extreme. It is not full compliance procedure under pressure, and it is not no documentation at all — it's a deliberately reduced but real standard, agreed before the emergency, not improvised during it.\n\nThis kind of pre-agreement matters because decisions made in the middle of a crisis tend to default toward whichever extreme feels most urgent in the moment — usually speed, sometimes rigid process. Having already decided what 'good enough, for now' documentation looks like removes that decision from the highest-pressure moment, and makes it far more likely that both speed and accountability are actually achieved together, rather than one being sacrificed for the other.",
+      "wordCount": 300,
+      "comprehensionQuestions": [
+        "According to the passage, how do experienced operations teams reframe the speed-versus-accountability tension?",
+        "What is a 'minimum viable documentation standard,' as described in the passage?",
+        "Why does the passage say this standard should be agreed in advance, rather than decided during a crisis?"
+      ]
+    },
+    "vocabulary": [
+      {
+        "term": "Donor compliance",
+        "category": "Humanitarian Operations",
+        "simpleDefinition": "Following the rules a donor sets for how their funding can be used and reported on.",
+        "professionalDefinition": "Adherence to the specific financial, procurement, and reporting requirements set by a funding organization as a condition of a grant or contract.",
+        "exampleSentence": "The audit confirmed the programme was fully within donor compliance requirements.",
+        "workplaceExample": "Donor compliance required receipts for any single purchase over a set threshold.",
+        "relatedTerms": [
+          "Audit-ready documentation",
+          "Accountability"
+        ]
+      },
+      {
+        "term": "Accountability",
+        "category": "Humanitarian Operations",
+        "simpleDefinition": "Being able to explain and justify what you did with resources you were responsible for.",
+        "professionalDefinition": "The obligation to report on, explain, and be answerable for the use of resources and the outcomes of decisions, typically supported by documentation.",
+        "exampleSentence": "Accountability to the donor meant every expense line could be traced back to an approved budget item.",
+        "workplaceExample": "Weekly reporting to the field coordinator was part of the team's accountability structure.",
+        "relatedTerms": [
+          "Donor compliance",
+          "Expenditure tracking"
+        ]
+      },
+      {
+        "term": "Audit-ready documentation",
+        "category": "Humanitarian Operations",
+        "simpleDefinition": "Records kept organized and complete enough that they could be reviewed by an auditor at any time.",
+        "professionalDefinition": "Documentation maintained to a standard of completeness and organization sufficient to withstand external audit or donor review at any point, without additional preparation.",
+        "exampleSentence": "Because the files were audit-ready, the review took two days instead of two weeks.",
+        "workplaceExample": "Keeping receipts filed and labeled by expense category as they came in, rather than sorting them later, kept the office audit-ready.",
+        "relatedTerms": [
+          "Donor compliance",
+          "Internal controls"
+        ]
+      },
+      {
+        "term": "Programme support",
+        "category": "Humanitarian Operations",
+        "simpleDefinition": "The finance, logistics, and admin work that keeps a humanitarian programme running smoothly.",
+        "professionalDefinition": "The operational functions — including finance, procurement, logistics, and administration — that enable frontline programme activities to be delivered effectively.",
+        "exampleSentence": "Strong programme support meant the field team never had to worry about whether supplies would arrive on time.",
+        "workplaceExample": "As part of programme support, the finance officer processed staff advances before each distribution round.",
+        "relatedTerms": [
+          "Cross-functional teamwork"
+        ]
+      },
+      {
+        "term": "Needs assessment",
+        "category": "Humanitarian Operations",
+        "simpleDefinition": "Finding out what people or a programme actually require, before deciding what to provide.",
+        "professionalDefinition": "A structured process of identifying and documenting the specific needs of a target population or operation, used to guide planning and resource allocation.",
+        "exampleSentence": "The needs assessment showed that water storage, not water access itself, was the more urgent gap.",
+        "workplaceExample": "A quick needs assessment before ordering supplies prevented the team from over-ordering items that weren't actually the priority.",
+        "relatedTerms": [
+          "Programme support"
+        ]
+      },
+      {
+        "term": "Beneficiary",
+        "category": "Humanitarian Operations",
+        "simpleDefinition": "A person who receives assistance or benefits from a programme.",
+        "professionalDefinition": "An individual or group who is the intended recipient of aid, services, or resources provided through a humanitarian or development programme.",
+        "exampleSentence": "The distribution list recorded each beneficiary's name and the items received.",
+        "workplaceExample": "Beneficiary feedback during distribution helped the team catch a packaging problem early.",
+        "relatedTerms": [
+          "Needs assessment"
+        ]
+      }
+    ],
+    "speakingScenarios": [
+      {
+        "situation": "A donor representative asks how your team ensures funds are used as intended.",
+        "category": "Humanitarian Operations",
+        "framework": "PREP",
+        "guidance": "This question is really asking about your documentation and control habits, not a general reassurance. Answer with something specific and demonstrable, not just 'we're careful.'",
+        "modelAnswer": "We ensure funds are used as intended primarily through documentation captured at the time of each activity, not reconstructed afterward. That's because after-the-fact records are far more error-prone and harder to verify. For example, every distribution is logged with a signed list on the day it happens, and every purchase above a set threshold requires a receipt and an approval before payment. So if you asked to trace any specific expense back to its budget line and its outcome, we'd be able to show you that trail directly."
+      },
+      {
+        "situation": "You need to raise a concern about a resource constraint that's putting a programme deadline at risk.",
+        "category": "Workplace Communication",
+        "framework": "Situation → Impact → Request",
+        "guidance": "State the situation factually, explain the concrete impact if it isn't addressed, and end with a specific, actionable request — not just a description of the problem.",
+        "modelAnswer": "I want to flag that the stock we need for next week's distribution hasn't arrived yet, and the supplier now says it will arrive two days after the planned date. If that holds, we'll need to either shift the distribution date or find a short-term alternative supplier for the gap. Could we decide today which option you'd prefer, so I can act on it this afternoon?"
+      }
+    ]
+  },
+  {
+    "dayNumber": 5,
+    "phase": "foundation",
+    "theme": "Reading Financial Reports",
+    "isMilestone": false,
+    "reviewFocus": null,
+    "tongueTwister": {
+      "text": "Six slippery snails slid slowly seaward.",
+      "difficulty": "beginner",
+      "focusSound": "S cluster",
+      "repetitionTarget": 5
+    },
+    "reading": {
+      "title": "Reading a Financial Report Without Getting Lost",
+      "author": null,
+      "sourceType": "original",
+      "content": "Financial reports intimidate people who don't work in finance, not because the underlying ideas are complicated, but because the format buries a small number of important numbers inside a much larger set of unimportant ones. Learning to read past that format is a skill separate from accounting knowledge itself — and it's a skill worth teaching to non-finance colleagues, not just having yourself.\n\nMost operational financial reports answer three questions: what was planned to be spent (the budget), what was actually spent (the actual, or expenditure), and what's the difference between the two (the variance). Everything else in a typical report — line-item detail, categories, notes — exists to explain that difference, not to replace it. A useful habit, whether reading your own report or someone else's, is to find the variance column first, scan it for anything unusually large, and only then read the detail behind those specific lines.\n\nA positive or negative variance isn't automatically good or bad news; it needs context. Underspending against budget can mean genuine savings, or it can mean an activity didn't happen as planned — which might be a bigger problem than overspending. Overspending can mean poor planning, or it can mean a justified response to a changed situation. This is exactly why financial controls exist: not to prevent variance from happening, but to make sure any variance is reviewed, explained, and approved by someone accountable for it, rather than simply passing unnoticed.\n\nWhen you're the one presenting a financial report to a non-finance audience, the same principle from earlier readings applies directly: lead with the variance and its explanation, not with the full line-item detail. The detail should be available if asked for — but it shouldn't be the first thing your listener has to work through.",
+      "estimatedMinutes": 2,
+      "keyConcepts": [
+        "Reports answer: planned, actual, and the variance between them",
+        "Find the variance first, then read the detail behind it",
+        "Variance is not automatically good or bad — it needs context",
+        "Financial controls exist to ensure variance is reviewed, not eliminated"
+      ]
+    },
+    "reflectionQuestions": [
+      "In your own words, what are the three core questions a financial report typically answers?",
+      "Why does the reading say underspending isn't automatically good news?",
+      "How would you apply the 'find the variance first' habit the next time you look at a report?",
+      "What's one thing about financial reports you'd still like clarified?"
+    ],
+    "speedReading": {
+      "passage": "A budget variance — the gap between what was planned and what actually happened — can come from several distinct sources, and identifying which one is at play changes how it should be explained and handled. Treating every variance as either 'good' or 'bad' without understanding its source misses most of the useful information a variance can provide.\n\nThe first common source is estimation error at the planning stage: a budget line was set based on an assumption — a price, a quantity, an exchange rate — that turned out to be wrong by the time actual spending occurred. This isn't usually a sign of poor management; it's a natural feature of planning under uncertainty, though large or repeated estimation errors on the same line item are worth reviewing.\n\nA second source is a change in circumstances after the budget was set: prices rose, an activity's scope changed, or an unplanned need emerged that had to be funded from the same budget line. This kind of variance often reflects the operation adapting appropriately to new information, even though it looks, at a glance, identical to poor planning.\n\nA third source is genuine execution difference: an activity happened faster, slower, more efficiently, or less efficiently than planned, independent of pricing or scope changes. This is the category most worth investigating closely, because it often points to a process issue — a delay, an inefficiency, a missed opportunity for savings — that could be addressed going forward.\n\nThe practical takeaway is that explaining a variance well means identifying which of these sources produced it, not simply stating the size of the gap. 'We were 12% over budget' is a fact. 'We were 12% over budget because fuel prices rose after the budget was approved' is an explanation — and it's the explanation, not the fact alone, that lets a manager or donor judge whether the variance is a concern.",
+      "wordCount": 317,
+      "comprehensionQuestions": [
+        "Name two of the three sources of budget variance described in the passage.",
+        "Why does the passage say estimation error isn't usually a sign of poor management?",
+        "According to the passage, what makes an explanation of a variance more useful than just stating its size?"
+      ]
+    },
+    "vocabulary": [
+      {
+        "term": "Accounts payable",
+        "category": "Finance & Accounting",
+        "simpleDefinition": "Money your organization owes to others for goods or services already received.",
+        "professionalDefinition": "A liability account representing amounts owed by an organization to suppliers or vendors for goods or services received but not yet paid for.",
+        "exampleSentence": "The accounts payable list showed three invoices due for payment this week.",
+        "workplaceExample": "Before month-end close, the finance officer reconciled accounts payable against outstanding supplier invoices.",
+        "relatedTerms": [
+          "Accounts receivable",
+          "Bank reconciliation"
+        ]
+      },
+      {
+        "term": "Accounts receivable",
+        "category": "Finance & Accounting",
+        "simpleDefinition": "Money owed to your organization by others, not yet received.",
+        "professionalDefinition": "An asset account representing amounts owed to an organization by clients, donors, or partners for goods, services, or funding not yet collected.",
+        "exampleSentence": "The grant instalment appeared in accounts receivable until the transfer was received.",
+        "workplaceExample": "Outstanding accounts receivable from a delayed donor payment affected short-term cash flow planning.",
+        "relatedTerms": [
+          "Accounts payable"
+        ]
+      },
+      {
+        "term": "Budget variance",
+        "category": "Finance & Accounting",
+        "simpleDefinition": "The difference between what was planned to be spent and what was actually spent.",
+        "professionalDefinition": "The numerical difference between budgeted and actual figures for a given period or line item, used to identify and explain deviations from a financial plan.",
+        "exampleSentence": "The budget variance report flagged a 15% overspend on transport costs.",
+        "workplaceExample": "Reviewing budget variance each month let the team catch a recurring overspend on fuel before it became a bigger issue.",
+        "relatedTerms": [
+          "Financial controls"
+        ]
+      },
+      {
+        "term": "Financial controls",
+        "category": "Finance & Accounting",
+        "simpleDefinition": "Checks and rules put in place to make sure money is handled correctly and honestly.",
+        "professionalDefinition": "Policies and procedures — such as approval limits, segregation of duties, and reconciliation requirements — designed to ensure accuracy, prevent fraud, and support accountability in financial management.",
+        "exampleSentence": "Financial controls required two signatures on any payment above a set threshold.",
+        "workplaceExample": "A financial control requiring receipts for all cash advances helped the office track spending accurately.",
+        "relatedTerms": [
+          "Internal controls",
+          "Audit trail"
+        ]
+      },
+      {
+        "term": "General ledger",
+        "category": "Finance & Accounting",
+        "simpleDefinition": "The main record where all of an organization's financial transactions are recorded.",
+        "professionalDefinition": "The central accounting record that summarizes all financial transactions of an organization, organized by account, forming the basis for financial statements.",
+        "exampleSentence": "The discrepancy was traced back to a miscoded entry in the general ledger.",
+        "workplaceExample": "In QuickBooks, every recorded transaction ultimately posts to the general ledger.",
+        "relatedTerms": [
+          "Chart of accounts",
+          "Journal entry"
+        ]
+      },
+      {
+        "term": "Bank reconciliation",
+        "category": "Finance & Accounting",
+        "simpleDefinition": "Checking that your accounting records match what the bank statement actually shows.",
+        "professionalDefinition": "The process of comparing an organization's internal cash records against bank statements to identify and resolve any discrepancies.",
+        "exampleSentence": "Monthly bank reconciliation caught a bank fee that hadn't been recorded in the books.",
+        "workplaceExample": "Bank reconciliation at month-end confirmed the recorded cash balance matched the bank statement exactly.",
+        "relatedTerms": [
+          "General ledger",
+          "Financial controls"
+        ]
+      }
+    ],
+    "speakingScenarios": [
+      {
+        "situation": "Explain a budget variance to a programme manager who is not a finance specialist.",
+        "category": "Finance & Accounting",
+        "framework": "PREP",
+        "guidance": "This is an audience-awareness exercise. Lead with plain language and the practical implication, not accounting terminology. Save technical detail for if they ask.",
+        "modelAnswer": "We're currently 12% over budget on transport for this quarter. That's mainly because fuel prices rose after the budget was set back in January — it's not a sign we're overspending carelessly. The example that shows this clearly is the delivery run to the northern sites, where fuel cost alone came in 20% higher than budgeted. So the main point is: this variance is explained by a cost change outside our control, and I'd recommend we revise the transport budget line for next quarter rather than treat this as a one-off problem to fix."
+      },
+      {
+        "situation": "You notice a discrepancy in an expense report and need to raise it with a colleague.",
+        "category": "Workplace Communication",
+        "framework": "Observation → Question → Suggested Next Step",
+        "guidance": "Lead with what you observed, factually, not with an accusation. Ask rather than assert what happened. Offer a next step so the conversation moves toward resolution.",
+        "modelAnswer": "I noticed the fuel expense on this report is higher than the receipts attached seem to support — the receipts total about 15,000 less than the claimed amount. Could you help me understand if there's a receipt missing, or if I'm reading the totals wrong? If a receipt's missing, I can hold the report until we track it down."
+      }
+    ]
+  },
+  {
+    "dayNumber": 6,
+    "phase": "foundation",
+    "theme": "Warehouse & Inventory Discipline",
+    "isMilestone": false,
+    "reviewFocus": null,
+    "tongueTwister": {
+      "text": "Warehouse workers weigh, wrap, and record weekly.",
+      "difficulty": "intermediate",
+      "focusSound": "W repetition",
+      "repetitionTarget": 5
+    },
+    "reading": {
+      "title": "Why Stock Counts Matter More Than They Seem",
+      "author": null,
+      "sourceType": "original",
+      "content": "A stock count sounds like one of the more mechanical tasks in warehouse operations — walk through the shelves, count what's there, compare it to the system. In practice, a well-run stock count is one of the most reliable early-warning systems an operation has, because discrepancies rarely appear for no reason.\n\nA shortfall between physical count and system record can point to several different problems: unrecorded distributions, theft, damage that wasn't logged, or a simple data-entry error at an earlier point. Each of these has a different fix, and none of them get fixed if the discrepancy isn't caught. A stock count that finds a gap and simply adjusts the system number to match reality — without asking why the gap exists — fixes the symptom while leaving the actual cause to repeat itself next month.\n\nThe frequency and method of counting matter too. A full physical count of every item, done occasionally, catches problems late — sometimes months after they occurred, by which point the cause is hard to trace. Cycle counting — checking a rotating subset of items regularly, rather than everything at once — tends to catch problems closer to when they happen, making the cause easier to identify and correct.\n\nGood stock-count habits also protect the people doing the counting. A documented, regular process that consistently finds and explains small discrepancies is far less exposed to suspicion than one that occasionally produces a large, unexplained gap. In that sense, stock counts aren't just an inventory control — they're part of how a warehouse team protects its own credibility.",
+      "estimatedMinutes": 2,
+      "keyConcepts": [
+        "Discrepancies usually have a specific, findable cause",
+        "Adjusting the number without investigating leaves the cause unresolved",
+        "Cycle counting catches problems closer to when they occur",
+        "Regular counting protects the credibility of the team, not just the inventory"
+      ]
+    },
+    "reflectionQuestions": [
+      "What does the reading say a stock discrepancy usually points to, beyond a simple counting mistake?",
+      "Explain the difference between a full physical count and cycle counting, in your own words.",
+      "Why does the reading argue that just adjusting the system number to match a count isn't enough?",
+      "What question would you want to ask about how stock counts are handled where you work?"
+    ],
+    "speedReading": {
+      "passage": "Warehouse work is often imagined as physical labor — moving boxes, organizing shelves — but a functioning warehouse depends just as much on information flow as on physical movement. Every item that enters or leaves the building should trigger a matching record, and the gap between the physical action and the recorded one is where most warehouse problems originate.\n\nA typical day might include receiving a delivery, which requires checking it against a delivery note before it's logged into the system; picking items for an outgoing distribution, which requires updating stock levels the moment items leave, not at the end of the day; and responding to urgent requests, which put pressure on the team to skip the recording step in favor of speed.\n\nThat last pressure point is where discipline matters most. A warehouse team that updates records in real time, even under pressure, maintains an accurate picture of what's actually available — which prevents a common and costly mistake: promising stock that isn't really there, because the system hasn't caught up to reality.\n\nBin cards — simple records kept at the storage location itself, tracking what's come in and gone out of that specific spot — are a low-tech but effective way to keep a real-time check alongside a digital system. If the digital system and the bin card ever disagree, that disagreement is itself useful information, flagging exactly where and when a recording gap occurred.\n\nThe underlying principle is simple, even if applying it consistently is hard: the record should never lag far behind the physical reality it's meant to describe. The further behind, the more expensive the eventual reconciliation.",
+      "wordCount": 272,
+      "comprehensionQuestions": [
+        "According to the passage, where do most warehouse problems originate?",
+        "What is a bin card, as described in the passage, and what is it used for?",
+        "What common and costly mistake does the passage say happens when records lag behind reality?"
+      ]
+    },
+    "vocabulary": [
+      {
+        "term": "Reorder point",
+        "category": "Inventory & Warehouse",
+        "simpleDefinition": "The stock level at which you should place a new order, before you run out.",
+        "professionalDefinition": "The predetermined inventory level at which a replenishment order should be triggered, calculated to account for lead time and expected usage.",
+        "exampleSentence": "The reorder point for gloves was set at 200 units, accounting for a two-week supplier lead time.",
+        "workplaceExample": "Once stock hit the reorder point, the system flagged it automatically for the procurement team.",
+        "relatedTerms": [
+          "Lead time",
+          "Buffer stock"
+        ]
+      },
+      {
+        "term": "Bin card",
+        "category": "Inventory & Warehouse",
+        "simpleDefinition": "A simple paper or physical record kept at a storage location, tracking what's come in and gone out.",
+        "professionalDefinition": "A location-level inventory record maintained alongside digital systems, documenting each receipt and issue of stock at a specific storage point.",
+        "exampleSentence": "The bin card showed twelve units received on Tuesday, matching the delivery note.",
+        "workplaceExample": "Comparing the bin card to the system record helped the team pinpoint exactly when a discrepancy occurred.",
+        "relatedTerms": [
+          "Stock reconciliation",
+          "Cycle count"
+        ]
+      },
+      {
+        "term": "Cycle count",
+        "category": "Inventory & Warehouse",
+        "simpleDefinition": "Counting a portion of your stock regularly, instead of counting everything at once occasionally.",
+        "professionalDefinition": "An inventory auditing method in which a subset of inventory is counted on a rotating schedule, rather than counting the entire inventory at one time.",
+        "exampleSentence": "Cycle counts caught the discrepancy within a week, rather than at the next annual full count.",
+        "workplaceExample": "High-value items were included in weekly cycle counts, while lower-risk items were counted monthly.",
+        "relatedTerms": [
+          "Bin card",
+          "Stock reconciliation"
+        ]
+      },
+      {
+        "term": "Stock write-off",
+        "category": "Inventory & Warehouse",
+        "simpleDefinition": "Officially removing damaged, expired, or lost stock from your records.",
+        "professionalDefinition": "The formal process of removing inventory from financial and stock records due to damage, expiry, loss, or obsolescence, typically requiring documented approval.",
+        "exampleSentence": "The write-off required a signed form explaining the reason for the loss.",
+        "workplaceExample": "Expired medical supplies were written off following the standard approval process, not just quietly removed from the shelf.",
+        "relatedTerms": [
+          "Internal controls"
+        ]
+      },
+      {
+        "term": "Warehouse layout",
+        "category": "Inventory & Warehouse",
+        "simpleDefinition": "How storage space is physically organized and arranged.",
+        "professionalDefinition": "The physical arrangement of storage areas, shelving, and pathways within a warehouse, designed to optimize accessibility, safety, and efficiency of stock movement.",
+        "exampleSentence": "Redesigning the warehouse layout reduced the time it took to pick urgent orders.",
+        "workplaceExample": "Fast-moving items were placed near the dispatch area as part of the warehouse layout redesign.",
+        "relatedTerms": [
+          "Dispatch"
+        ]
+      },
+      {
+        "term": "FIFO (First-In, First-Out)",
+        "category": "Inventory & Warehouse",
+        "simpleDefinition": "Using or shipping out the oldest stock first, so nothing sits too long and expires or becomes obsolete.",
+        "professionalDefinition": "An inventory management principle in which the oldest stock received is issued or used first, minimizing the risk of expiry, damage, or obsolescence.",
+        "exampleSentence": "Applying FIFO strictly meant almost no stock expired on the shelf that quarter.",
+        "workplaceExample": "New deliveries were placed behind existing stock on the shelf to keep FIFO order intact.",
+        "relatedTerms": [
+          "Stock write-off",
+          "Warehouse layout"
+        ]
+      }
+    ],
+    "speakingScenarios": [
+      {
+        "situation": "A manager asks why the physical stock count doesn't match the system record.",
+        "category": "Inventory & Warehouse Management",
+        "framework": "PREP",
+        "guidance": "Avoid a defensive tone. Name the likely cause specifically if you know it, and describe the process for finding out if you don't yet.",
+        "modelAnswer": "There's currently a gap of eight units between the physical count and the system for that item. My first step is checking the bin card against the last week of recorded distributions, since that's the most common source of this kind of gap. If it turns out to be a recording delay rather than an actual loss, I'll correct the system entry and note the cause. I should have a clear answer by end of day, and I'll flag it immediately if it turns out to be something more serious."
+      },
+      {
+        "situation": "Coordinate with a colleague about dispatching urgent stock to a field site.",
+        "category": "Workplace Communication",
+        "framework": "Situation → Options → Recommendation",
+        "guidance": "Lay out the situation, give the realistic options, and recommend one — don't just describe the problem and leave the decision fully open.",
+        "modelAnswer": "We've confirmed the item is in stock, but our usual transport isn't available until Thursday. We have two options: wait for the scheduled transport, or arrange a smaller emergency delivery today at extra cost. Given the site says they're out by tomorrow, I'd recommend the emergency delivery — I can arrange it within the hour if you approve it."
+      }
+    ]
+  },
+  {
+    "dayNumber": 7,
+    "phase": "foundation",
+    "theme": "What Auditors Look For",
+    "isMilestone": false,
+    "reviewFocus": null,
+    "tongueTwister": {
+      "text": "Careful clerks keep clean, complete accounts.",
+      "difficulty": "intermediate",
+      "focusSound": "K/C cluster",
+      "repetitionTarget": 5
+    },
+    "reading": {
+      "title": "What Auditors Actually Look For",
+      "author": null,
+      "sourceType": "original",
+      "content": "People often expect an audit to be adversarial — an outside party looking for mistakes to criticize. In practice, most auditors are looking for something simpler and less personal: a clear, traceable link between a transaction and the documentation that supports it. An audit trail that lets them follow that link quickly is what separates a smooth audit from a slow, stressful one.\n\nConcretely, this means every recorded expense should be traceable back to an approval, a supporting document such as a receipt or invoice, and the original request or justification for it. It also means the reverse should work too: given a source document, an auditor should be able to find where it was recorded in the accounts. When that link exists in both directions, an audit tends to move quickly, because each sample transaction an auditor pulls has a complete, findable story behind it.\n\nInternal controls — approval limits, requiring more than one person to authorize larger payments, regular reconciliations — exist specifically to keep that link intact as transactions happen, rather than trying to reconstruct it afterward. A system like QuickBooks helps here structurally, because it forces transactions into a consistent format and chart of accounts, but the software alone doesn't guarantee good records — the habits of the people entering data do.\n\nThe most audit-ready organizations aren't the ones with no errors; errors happen everywhere. They're the ones where every transaction, correct or corrected, has a clear, dated, and explainable trail. That trail is what auditors are actually looking for — not perfection, but traceability.",
+      "estimatedMinutes": 2,
+      "keyConcepts": [
+        "Auditors look for a traceable link between transactions and documentation",
+        "The link should work in both directions: transaction to document, and document to transaction",
+        "Internal controls maintain the link as it happens, not afterward",
+        "Traceability, not perfection, is the real audit standard"
+      ]
+    },
+    "reflectionQuestions": [
+      "In your own words, what is an auditor actually checking for, according to the reading?",
+      "Why does the reading say the link between transaction and document should work in both directions?",
+      "What does the reading say software like QuickBooks does and doesn't guarantee?",
+      "What's one record-keeping habit from this reading you'd like to build or strengthen?"
+    ],
+    "speedReading": {
+      "passage": "Good record-keeping is easiest to build when there's no pressure forcing it, and hardest to build in the middle of a crisis, an urgent deadline, or an unexpected audit request. This creates an obvious but often ignored opportunity: the habits that make those high-pressure moments manageable have to be built during the ordinary, low-pressure ones.\n\nA useful test for any record-keeping habit is to ask: would this still make sense to someone else, reading it six months from now, with no memory of what I was thinking at the time? A receipt filed with no note about which activity it relates to fails that test, even if it's technically kept. A short, consistent labeling habit — activity, date, amount, purpose, in the same format every time — passes it, and takes only a few extra seconds per transaction.\n\nConsistency matters more than sophistication. A simple spreadsheet or folder structure, used the same way every single time, produces more reliable records than an elaborate system that's only followed correctly some of the time. This is part of why experienced finance and logistics staff tend to resist constantly redesigning their filing systems — a mediocre system used consistently beats a perfect system used inconsistently.\n\nThe payoff for these habits is invisible most of the time and very visible occasionally: the day an auditor asks for a specific transaction from eight months ago, or a donor questions a specific expense line, is the day that a few extra seconds per transaction, repeated consistently over months, either saves hours of searching or prevents it from being needed at all.",
+      "wordCount": 265,
+      "comprehensionQuestions": [
+        "What test does the passage suggest applying to any record-keeping habit?",
+        "According to the passage, what matters more — consistency or sophistication, in a record-keeping system?",
+        "When does the passage say the payoff of good record-keeping habits becomes visible?"
+      ]
+    },
+    "vocabulary": [
+      {
+        "term": "Audit trail",
+        "category": "Audit & Compliance",
+        "simpleDefinition": "A clear, traceable record of who did what, and when, for a transaction.",
+        "professionalDefinition": "A chronological record of documentation and approvals that allows a transaction to be traced from initiation through completion, supporting verification and accountability.",
+        "exampleSentence": "The audit trail showed the purchase was requested, approved, and paid in line with policy.",
+        "workplaceExample": "Keeping the purchase order, approval email, and receipt together preserved a complete audit trail for that transaction.",
+        "relatedTerms": [
+          "Internal controls",
+          "Audit-ready documentation"
+        ]
+      },
+      {
+        "term": "Internal controls",
+        "category": "Audit & Compliance",
+        "simpleDefinition": "Rules and checks built into how work is done to prevent errors or misuse of funds.",
+        "professionalDefinition": "Policies, procedures, and checks embedded in operational processes to ensure accuracy, prevent fraud, and support compliance and accountability.",
+        "exampleSentence": "A key internal control required two signatures for any payment above the approval threshold.",
+        "workplaceExample": "Segregating who requests a purchase from who approves it was an internal control the office followed strictly.",
+        "relatedTerms": [
+          "Financial controls",
+          "Audit trail"
+        ]
+      },
+      {
+        "term": "Supporting documentation",
+        "category": "Audit & Compliance",
+        "simpleDefinition": "The receipts, invoices, and approvals that back up a recorded transaction.",
+        "professionalDefinition": "The set of documents — receipts, invoices, approvals, contracts — that substantiate and justify a recorded financial transaction.",
+        "exampleSentence": "The claim was returned because it lacked supporting documentation for two of the four expenses.",
+        "workplaceExample": "Every reimbursement request required supporting documentation attached before it went to finance.",
+        "relatedTerms": [
+          "Audit trail"
+        ]
+      },
+      {
+        "term": "Compliance",
+        "category": "Audit & Compliance",
+        "simpleDefinition": "Following the required rules, policies, or regulations that apply to your work.",
+        "professionalDefinition": "Adherence to laws, regulations, donor requirements, and organizational policies governing how activities and finances are conducted.",
+        "exampleSentence": "Compliance training covered both donor rules and national tax regulations.",
+        "workplaceExample": "Regular compliance checks confirmed procurement was following the required tendering thresholds.",
+        "relatedTerms": [
+          "Donor compliance",
+          "Internal controls"
+        ]
+      },
+      {
+        "term": "Journal entry",
+        "category": "Audit & Compliance",
+        "simpleDefinition": "A single recorded transaction in the accounting system.",
+        "professionalDefinition": "A record of a financial transaction in the general ledger, specifying the accounts affected and the amounts debited and credited.",
+        "exampleSentence": "A correcting journal entry fixed the miscoded expense from the previous month.",
+        "workplaceExample": "Each supplier payment generated a journal entry linking the bank account and the relevant expense category.",
+        "relatedTerms": [
+          "General ledger"
+        ]
+      },
+      {
+        "term": "Chart of accounts",
+        "category": "Audit & Compliance",
+        "simpleDefinition": "A structured list of all the categories used to record financial transactions.",
+        "professionalDefinition": "A structured listing of all accounts used in an organization's general ledger, categorized by type (assets, liabilities, income, expenses), providing a consistent framework for recording transactions.",
+        "exampleSentence": "The chart of accounts was reorganized to separate programme costs by donor more clearly.",
+        "workplaceExample": "In QuickBooks, selecting the right account from the chart of accounts when entering an expense kept reports accurate.",
+        "relatedTerms": [
+          "General ledger",
+          "Journal entry"
+        ]
+      }
+    ],
+    "speakingScenarios": [
+      {
+        "situation": "An auditor asks you to walk them through how a specific transaction was recorded and approved.",
+        "category": "Audit & Compliance",
+        "framework": "PREP",
+        "guidance": "Structure your walkthrough clearly and in order: request, approval, execution, recording. Auditors respond well to a clear sequence, not a defensive explanation.",
+        "modelAnswer": "This transaction started as a requisition for office supplies, approved by the programme manager before any purchase was made. Once approved, the purchase was made and a receipt was kept — that's the supporting documentation you're holding now. It was then entered into QuickBooks under the relevant expense category, matched against the approved requisition. So the sequence is: request, approval, purchase, documentation, then recording — and each step has a dated record behind it."
+      },
+      {
+        "situation": "Explain to a colleague why a receipt or supporting document is required for every expense, even small ones.",
+        "category": "Workplace Communication",
+        "framework": "Rule → Reason → Example",
+        "guidance": "State the rule plainly, explain the reason without sounding like you're reciting policy, and give one concrete example of why it matters.",
+        "modelAnswer": "Every expense needs a receipt, no exceptions for small amounts — that's the rule. The reason is that an audit trail only works if it's complete; a single missing receipt is exactly the kind of gap an auditor will ask about. For example, last year a small unreceipted transport expense held up an entire batch of reimbursements while we tracked down what it was for. One receipt at the time would have taken ten seconds and avoided that."
+      }
+    ]
+  },
+  {
+    "dayNumber": 8,
+    "phase": "foundation",
+    "theme": "Speaking Well in Meetings",
+    "isMilestone": false,
+    "reviewFocus": null,
+    "tongueTwister": {
+      "text": "Team targets track true, transparent totals.",
+      "difficulty": "intermediate",
+      "focusSound": "T cluster",
+      "repetitionTarget": 5
+    },
+    "reading": {
+      "title": "Speaking Well in Meetings You Didn't Plan to Speak In",
+      "author": null,
+      "sourceType": "original",
+      "content": "Most professional meetings include at least one moment where someone is asked to speak with little or no warning — 'can you give us a quick update on that?' — and how well a person handles that moment often shapes how their competence is perceived, independent of the actual content of their work.\n\nThe instinct under this kind of pressure is to start talking immediately and figure out the structure as you go, which usually produces a rambling, hard-to-follow answer. A better instinct is a brief, deliberate pause — even one or two seconds — to mentally organize the answer into a shape before starting to speak. That pause feels uncomfortable in the moment but is barely noticeable to listeners, while a disorganized answer is very noticeable.\n\nA simple structure that works for most unplanned updates: status, then the one thing that matters most right now, then anything you need from the group. This mirrors the headline-first principle from earlier readings — lead with the most useful piece of information, not the chronological story of everything that happened.\n\nActive listening in meetings matters just as much as speaking well. Someone who has genuinely followed the discussion can contribute a relevant point in one or two sentences; someone who has been mentally preparing their own comment instead of listening often contributes something slightly off-topic, which costs more meeting time to redirect than it saves. Being ready to speak well in an unplanned moment starts with actually listening in the moments before it.\n\nMeetings reward people who can be concise under mild pressure. That skill is buildable, deliberately, the same way any other communication skill is — through practice, not just talent.",
+      "estimatedMinutes": 2,
+      "keyConcepts": [
+        "A brief pause to organize thoughts improves an unplanned answer more than it costs",
+        "Status, key point, ask — a simple structure for unplanned updates",
+        "Active listening makes it easier to contribute relevantly when called on",
+        "Concise speaking under mild pressure is a buildable skill"
+      ]
+    },
+    "reflectionQuestions": [
+      "What does the reading recommend doing in the one or two seconds before answering an unplanned question in a meeting?",
+      "Describe the simple structure the reading suggests for unplanned updates.",
+      "Why does the reading connect active listening to speaking well when called on unexpectedly?",
+      "Think of a recent meeting moment that didn't go as smoothly as you wanted — what from this reading could have helped?"
+    ],
+    "speedReading": {
+      "passage": "Cross-functional coordination — getting finance, logistics, procurement, and programme teams to work together smoothly — is difficult less because people disagree, and more because each function operates with a different sense of what 'urgent' and 'complete' mean, shaped by their own daily pressures.\n\nA programme team facing an urgent community need may consider a request 'complete' the moment it's been raised verbally. A procurement team, working under policy requirements, considers a request complete only once it has a proper written requisition. Neither view is wrong within its own function, but the mismatch creates friction: the programme team feels ignored or slowed down; the procurement team feels asked to bypass necessary steps.\n\nThis kind of friction is rarely resolved by one function simply adopting the other's standard. It's better resolved by making each function's actual requirements visible to the others, early, rather than discovering them mid-crisis. A procurement team that clearly communicates, in advance, exactly what information a request needs to move quickly gives programme colleagues something they can act on, rather than a vague sense that procurement is slow or difficult.\n\nGood cross-functional meetings tend to focus less on assigning blame for past friction and more on building shared, simple agreements: what does an urgent request need to include, who can approve it quickly, what's the fastest legitimate path when time genuinely matters. These agreements, made calmly outside of a crisis, remove a large share of the friction that would otherwise resurface during the next one.\n\nCoordination, in this sense, isn't really about personalities getting along — it's about making the invisible requirements of each function visible to the others, before they collide.",
+      "wordCount": 273,
+      "comprehensionQuestions": [
+        "According to the passage, what is the real source of most cross-functional friction — disagreement, or something else?",
+        "Give the example the passage uses to illustrate mismatched definitions of 'complete.'",
+        "What does the passage recommend building, calmly, outside of a crisis?"
+      ]
+    },
+    "vocabulary": [
+      {
+        "term": "Agenda",
+        "category": "Workplace Communication",
+        "simpleDefinition": "A planned list of what will be discussed in a meeting.",
+        "professionalDefinition": "A structured outline of topics to be discussed in a meeting, typically shared in advance to guide focus and time allocation.",
+        "exampleSentence": "The meeting stayed on track because everyone had reviewed the agenda beforehand.",
+        "workplaceExample": "Adding a time limit to each agenda item kept the cross-functional meeting from running over.",
+        "relatedTerms": [
+          "Action item",
+          "Follow-up"
+        ]
+      },
+      {
+        "term": "Action item",
+        "category": "Workplace Communication",
+        "simpleDefinition": "A specific task agreed on during a meeting, usually with someone responsible for it.",
+        "professionalDefinition": "A discrete, assigned task arising from a meeting discussion, typically including an owner and a target completion date.",
+        "exampleSentence": "Each action item was assigned an owner and a deadline before the meeting closed.",
+        "workplaceExample": "The action item to confirm the supplier's delivery date was assigned to the procurement officer, due by Friday.",
+        "relatedTerms": [
+          "Follow-up",
+          "Agenda"
+        ]
+      },
+      {
+        "term": "Follow-up",
+        "category": "Workplace Communication",
+        "simpleDefinition": "Checking back on something after a meeting or conversation to confirm it happened.",
+        "professionalDefinition": "The practice of revisiting a prior discussion, decision, or action item to confirm status, completion, or next steps.",
+        "exampleSentence": "A short follow-up email after the meeting confirmed everyone's understanding of the agreed actions.",
+        "workplaceExample": "The team lead sent a follow-up message a week later to confirm the action items had been completed.",
+        "relatedTerms": [
+          "Action item"
+        ]
+      },
+      {
+        "term": "Consensus",
+        "category": "Workplace Communication",
+        "simpleDefinition": "General agreement among a group, even if not everyone agrees on every detail.",
+        "professionalDefinition": "A collective decision or agreement reached by a group, generally involving discussion until most or all members accept the outcome, even without unanimous preference.",
+        "exampleSentence": "After discussion, the team reached consensus on the revised distribution schedule.",
+        "workplaceExample": "Building consensus before finalizing the procurement policy reduced pushback later.",
+        "relatedTerms": [
+          "Stakeholder alignment"
+        ]
+      },
+      {
+        "term": "Escalation",
+        "category": "Workplace Communication",
+        "simpleDefinition": "Passing a problem up to someone with more authority when it can't be resolved at your level.",
+        "professionalDefinition": "The process of formally raising an issue to a higher level of authority or decision-making when it cannot be resolved through normal channels.",
+        "exampleSentence": "The pricing dispute required escalation to the country director for a final decision.",
+        "workplaceExample": "When the supplier disagreement wasn't resolved after two calls, the officer escalated it to their supervisor.",
+        "relatedTerms": [
+          "Stakeholder alignment"
+        ]
+      },
+      {
+        "term": "Stakeholder alignment",
+        "category": "Workplace Communication",
+        "simpleDefinition": "Making sure everyone involved understands and agrees on the plan or decision.",
+        "professionalDefinition": "The state of shared understanding and agreement among relevant parties regarding goals, plans, or decisions, typically achieved through deliberate communication.",
+        "exampleSentence": "Stakeholder alignment before the launch prevented conflicting instructions from reaching the field team.",
+        "workplaceExample": "A short pre-meeting with finance and logistics ensured stakeholder alignment before the proposal went to the donor.",
+        "relatedTerms": [
+          "Consensus",
+          "Escalation"
+        ]
+      }
+    ],
+    "speakingScenarios": [
+      {
+        "situation": "In a cross-functional meeting, you're unexpectedly asked to give a two-minute update on your area.",
+        "category": "Workplace Communication",
+        "framework": "3-2-1",
+        "guidance": "Use the pause-then-structure approach from today's reading. Three updates, two blockers, one ask — keep each part to a sentence or two.",
+        "modelAnswer": "Three quick updates: stock levels are on target, the supplier contract renewal is finalized, and the warehouse layout change is complete. Two blockers: we're still waiting on sign-off for the transport budget, and one delivery is delayed by two days. One ask: if anyone can help expedite that transport sign-off, that would remove our biggest current risk."
+      },
+      {
+        "situation": "A colleague disagrees with your proposed approach during a meeting.",
+        "category": "Workplace Communication",
+        "framework": "Acknowledge → Clarify → Propose",
+        "guidance": "Acknowledge their point genuinely before defending your own — this isn't just politeness, it often reveals something your original proposal missed. Then clarify the specific point of disagreement, and propose a way forward.",
+        "modelAnswer": "That's a fair concern — I hadn't fully considered the cost difference you're raising. Can I clarify: is your main worry the upfront cost, or the ongoing maintenance cost? If it's upfront cost, I'd propose we compare both options against the full first-year cost, not just the purchase price, and decide from there."
+      }
+    ]
+  },
+  {
+    "dayNumber": 9,
+    "phase": "foundation",
+    "theme": "Communicating with External Partners",
+    "isMilestone": false,
+    "reviewFocus": null,
+    "tongueTwister": {
+      "text": "Betty bought a bit of butter to build a better batch.",
+      "difficulty": "intermediate",
+      "focusSound": "B repetition",
+      "repetitionTarget": 5
+    },
+    "reading": {
+      "title": "Writing and Speaking to External Partners",
+      "author": null,
+      "sourceType": "original",
+      "content": "Communication with external partners — suppliers, donors, clients — operates under different assumptions than internal communication, even when the underlying message is the same. Internally, colleagues generally share context, forgive informal phrasing, and interpret a delay or a mistake within a broader relationship of trust built over time. Externally, a message often has to stand on its own, without that shared history to soften it.\n\nThis doesn't mean external communication needs to be stiff or overly formal — it means it needs to be more self-contained. A message to a supplier about a delayed payment should include enough context that it makes sense even if the reader has forgotten the details of the original agreement. A message to a donor about a changed timeline should explain the reason clearly enough that it doesn't read as an excuse, even to someone with no visibility into the day-to-day operational reality behind it.\n\nTone matters more externally too, partly because there's less room to recover from a poorly worded message. An internal colleague might read a blunt message and assume you were just busy; an external partner is more likely to read the same message as a sign of how the relationship will be managed going forward. This is especially true when addressing a problem — a missed deadline, a quality issue, a billing dispute — where the choice between a defensive tone and a solution-focused tone shapes the entire relationship trajectory, not just that one exchange.\n\nThe practical standard for external communication: assume the reader has less context than a colleague would, and more scrutiny than a colleague would apply. Write and speak accordingly.",
+      "estimatedMinutes": 2,
+      "keyConcepts": [
+        "External communication needs to be more self-contained than internal communication",
+        "Tone matters more externally because there's less relationship buffer",
+        "How you handle a problem externally shapes the whole relationship, not just that exchange",
+        "Assume less shared context and more scrutiny from external readers"
+      ]
+    },
+    "reflectionQuestions": [
+      "In your own words, what's the key difference the reading describes between internal and external communication?",
+      "Why does the reading say tone matters more in external communication than internal?",
+      "Think of a message you'd send to a supplier or donor — how would you make it more self-contained, per this reading?",
+      "What question does this reading leave you with about communicating with external partners?"
+    ],
+    "speedReading": {
+      "passage": "A missed supplier deadline puts the receiving organization in an uncomfortable position: something was promised, and now it's not arriving as expected, with downstream consequences that may already be in motion — a distribution planned around it, a report due to a donor referencing it, a colleague waiting on it to do their own work.\n\nThe instinct in this situation is often to escalate quickly and firmly, treating the missed deadline as a breach requiring a strong response. Sometimes that's the right call. But experienced procurement and logistics staff tend to gather two pieces of information before deciding how to respond: what is the supplier's stated reason, and is this a first occurrence or part of a pattern.\n\nA first-time delay with a specific, verifiable reason — a documented transport disruption, a supply shortage affecting the whole market — usually calls for a firm but collaborative response: confirm the new timeline in writing, ask what the supplier is doing to prevent recurrence, and update internal stakeholders with the revised date and reason. A pattern of delays, or a vague or unverifiable explanation, calls for a different response: a more formal conversation about the relationship itself, potentially including contract terms, penalty clauses if they exist, or a decision about future business.\n\nWhat separates a well-handled missed deadline from a poorly handled one is rarely the firmness of the initial message — it's whether the response is proportionate to the actual situation, based on real information, rather than a generic escalation applied regardless of context. Overreacting to a first-time, well-explained delay can damage a good supplier relationship unnecessarily; underreacting to a repeated, unexplained pattern can allow a real problem to continue undetected.",
+      "wordCount": 280,
+      "comprehensionQuestions": [
+        "What two pieces of information does the passage say experienced staff gather before responding to a missed deadline?",
+        "According to the passage, how should a first-time delay with a verifiable reason typically be handled?",
+        "What does the passage say separates a well-handled missed deadline from a poorly handled one?"
+      ]
+    },
+    "vocabulary": [
+      {
+        "term": "Service level agreement",
+        "category": "Stakeholder & Supplier Relations",
+        "simpleDefinition": "A written agreement setting out what standard of service is expected, such as delivery times.",
+        "professionalDefinition": "A formal agreement between a buyer and supplier defining expected performance standards, such as delivery timeframes, quality levels, and remedies for non-compliance.",
+        "exampleSentence": "The service level agreement specified delivery within five working days of order confirmation.",
+        "workplaceExample": "Referring back to the service level agreement made it clear the supplier had missed their committed delivery window.",
+        "relatedTerms": [
+          "Supplier performance",
+          "Contract compliance"
+        ]
+      },
+      {
+        "term": "Supplier performance",
+        "category": "Stakeholder & Supplier Relations",
+        "simpleDefinition": "How reliably and well a supplier delivers on what they've agreed to.",
+        "professionalDefinition": "An ongoing assessment of a supplier's reliability, quality, and adherence to agreed terms, typically tracked over time to inform future sourcing decisions.",
+        "exampleSentence": "Supplier performance records showed this vendor had missed only one delivery in two years.",
+        "workplaceExample": "Poor supplier performance on the last three orders was factored into the decision not to renew the contract.",
+        "relatedTerms": [
+          "Service level agreement",
+          "Supplier evaluation"
+        ]
+      },
+      {
+        "term": "Contract compliance",
+        "category": "Stakeholder & Supplier Relations",
+        "simpleDefinition": "Whether a supplier is actually following the terms they agreed to in their contract.",
+        "professionalDefinition": "The extent to which a party's actions align with the specific terms, conditions, and obligations outlined in a signed contract.",
+        "exampleSentence": "The delayed delivery raised a contract compliance question the procurement team needed to address formally.",
+        "workplaceExample": "Reviewing contract compliance quarterly helped the team catch a pattern of late deliveries early.",
+        "relatedTerms": [
+          "Service level agreement"
+        ]
+      },
+      {
+        "term": "Grace period",
+        "category": "Stakeholder & Supplier Relations",
+        "simpleDefinition": "A short extra amount of time allowed before a rule or penalty applies.",
+        "professionalDefinition": "A defined period during which a party is permitted to fulfill an obligation, such as delivery or payment, without triggering a penalty or breach.",
+        "exampleSentence": "The contract included a three-day grace period before late-delivery penalties applied.",
+        "workplaceExample": "The supplier delivered within the grace period, so no penalty clause was triggered.",
+        "relatedTerms": [
+          "Contract compliance"
+        ]
+      },
+      {
+        "term": "Goodwill",
+        "category": "Stakeholder & Supplier Relations",
+        "simpleDefinition": "The trust and positive relationship built up between an organization and a partner over time.",
+        "professionalDefinition": "The accumulated trust and positive standing between parties in a business relationship, which can influence flexibility and cooperation beyond formal contract terms.",
+        "exampleSentence": "Years of reliable payment had built enough goodwill that the supplier prioritized their order during a shortage.",
+        "workplaceExample": "The team drew on existing goodwill with the supplier to request an informal rush order outside the usual process.",
+        "relatedTerms": [
+          "Relationship management"
+        ]
+      },
+      {
+        "term": "Relationship management",
+        "category": "Stakeholder & Supplier Relations",
+        "simpleDefinition": "Actively maintaining a good working relationship with a partner over time, not just handling individual transactions.",
+        "professionalDefinition": "The deliberate practice of maintaining and developing a productive, trust-based relationship with a partner, client, or supplier over the course of an ongoing engagement.",
+        "exampleSentence": "Regular check-in calls, separate from active orders, were part of the team's supplier relationship management.",
+        "workplaceExample": "Good relationship management with the main supplier meant they gave advance warning before a price increase.",
+        "relatedTerms": [
+          "Goodwill",
+          "Supplier performance"
+        ]
+      }
+    ],
+    "speakingScenarios": [
+      {
+        "situation": "A supplier has missed a delivery deadline. Contact them professionally to address it.",
+        "category": "Stakeholder & Supplier Relations",
+        "framework": "PREP",
+        "guidance": "Firm but professional — don't lead with an accusation. State the fact, ask for the reason and a revised date, and be clear about what you need going forward.",
+        "modelAnswer": "The delivery scheduled for Monday hasn't arrived, and it's now three days overdue. Could you let me know the reason for the delay and confirm a revised delivery date? For example, if this is due to the transport disruption we've heard about regionally, that context would help us plan around it. Going forward, I'd also appreciate advance notice if a similar delay looks likely, so we can adjust on our end before the deadline passes."
+      },
+      {
+        "situation": "A stakeholder asks for a report earlier than the timeline you originally agreed on.",
+        "category": "Workplace Communication",
+        "framework": "Acknowledge → Constraint → Alternative",
+        "guidance": "Acknowledge the request seriously rather than immediately refusing. State the real constraint honestly. Offer an alternative that partially meets the need if the full request isn't possible.",
+        "modelAnswer": "I understand the earlier date would be useful on your end. The constraint is that the underlying data won't be finalized until Thursday, so a full report by Monday isn't realistic without risking accuracy. What I can do is send you a preliminary summary by Monday with the key figures, followed by the complete report on the original date — would that work for what you need?"
+      }
+    ]
+  },
+  {
+    "dayNumber": 10,
+    "phase": "foundation",
+    "theme": "Milestone 1: Ten Days In",
+    "isMilestone": true,
+    "reviewFocus": "Today's vocabulary review revisits terms from Days 1–9 via the spaced-repetition queue rather than introducing a full new set.",
+    "tongueTwister": {
+      "text": "Punctual procurement partners prevent painful, prolonged problems.",
+      "difficulty": "intermediate",
+      "focusSound": "P cluster, longer sentence",
+      "repetitionTarget": 4
+    },
+    "reading": {
+      "title": "Ten Days In: What Changes When You Read and Speak Deliberately",
+      "author": null,
+      "sourceType": "original",
+      "content": "Ten days is not long enough to master a skill, but it is long enough to notice whether a practice is working — and it's worth pausing here to name what 'working' actually looks like at this stage, because it's easy to expect the wrong kind of progress this early.\n\nAt ten days, the realistic sign of progress isn't fluency. It's noticing. Noticing when you're about to bury the main point of something you're saying. Noticing a filler word as it leaves your mouth, instead of only recognizing it in playback. Noticing that a report you're reading has a variance buried in paragraph three that should have been the first sentence. That noticing is the actual mechanism behind every later improvement — you can't fix a habit you don't yet notice yourself doing.\n\nThis connects directly to why active reading and structured speaking practice are paired together in this programme, rather than treated as separate skills. Reading deliberately — asking what the main idea is, restating it in your own words — builds exactly the same mental muscle as organizing a spoken answer before you give it. Both are the same underlying skill: extracting the essential point from a mass of detail, and leading with it. The idea that deeper knowledge makes communication easier applies here directly — the more precisely you understand something, the more naturally you can explain it simply.\n\nThe next ten days build on the same nine areas covered so far, at slightly greater depth. The goal isn't new content for its own sake — it's the same skills, applied to gradually less familiar and more demanding situations.",
+      "estimatedMinutes": 2,
+      "keyConcepts": [
+        "At ten days, 'noticing' your own habits is the realistic marker of progress, not fluency",
+        "Active reading and structured speaking build the same underlying skill: extracting and leading with the main point",
+        "Deeper understanding of a topic makes it easier to explain simply",
+        "The next block deepens the same nine domains rather than introducing entirely new ones"
+      ]
+    },
+    "reflectionQuestions": [
+      "Which of the domains covered in the last ten days did you find hardest to explain out loud, and why?",
+      "Which vocabulary term from this block do you most want to keep practicing?",
+      "How comfortable are you with the PREP framework so far, and what's making it easier or harder?",
+      "What's one concrete change you'll try to make in how you speak at work over the next week?"
+    ],
+    "speedReading": {
+      "passage": "Behavioral research on habit formation points to a consistent, if slightly disappointing, finding: repetition over time matters more than intensity in any single session. A single long, effortful practice session produces less durable change than the same total effort spread across many shorter, more frequent sessions. This is relevant to communication practice specifically, because communication skills are executed under real-time pressure — in a meeting, an interview, a phone call — where there's no time to consciously apply a technique step by step. The technique has to already be somewhat automatic.\n\nAutomaticity comes from repetition in low-stakes conditions, not from understanding a technique intellectually. Someone can fully understand the PREP framework after one explanation, but be unable to use it smoothly under interview pressure until they've practiced it enough times that starting with the Point becomes closer to a reflex than a deliberate choice. This is precisely why daily short practice, even ten or fifteen minutes, tends to outperform occasional longer sessions for this kind of skill.\n\nA second relevant finding is that habits consolidate more reliably when they're tied to a consistent trigger or context — the same time of day, the same first action, the same sequence of steps — rather than practiced whenever convenient. A daily practice routine that always starts the same way, in the same order, builds the habit faster than the same total practice done in a different, unpredictable order each time.\n\nThe practical implication for the next block of this programme: the value of continuing daily practice, in a consistent structure, is not just about seeing new content. It is about letting the underlying skills — noticing the main point, structuring an answer, listening actively — become closer to automatic before the material gets harder.",
+      "wordCount": 292,
+      "comprehensionQuestions": [
+        "According to the passage, what matters more for durable habit change — session intensity, or repetition over time?",
+        "Why does the passage say understanding a framework intellectually isn't enough to use it smoothly under pressure?",
+        "What does the passage say helps habits consolidate more reliably, besides repetition itself?"
+      ]
+    },
+    "vocabulary": [
+      {
+        "term": "Professional presence",
+        "category": "Workplace Communication",
+        "simpleDefinition": "How confident, composed, and credible you come across in a professional setting.",
+        "professionalDefinition": "The combined impression created by tone, posture, preparation, and communication clarity that shapes how competent and credible a person appears in a professional context.",
+        "exampleSentence": "Cutting filler words and pausing before answering noticeably improved his professional presence in interviews.",
+        "workplaceExample": "Professional presence in a meeting includes both what you say and how steadily you say it.",
+        "relatedTerms": [
+          "Conciseness",
+          "Filler words"
+        ]
+      },
+      {
+        "term": "Concise reporting",
+        "category": "Workplace Communication",
+        "simpleDefinition": "Writing or speaking a report that gives the key information without unnecessary length.",
+        "professionalDefinition": "The practice of communicating findings, status, or results using the minimum length necessary to convey a complete and accurate picture.",
+        "exampleSentence": "Concise reporting meant the three-page draft became a half-page summary with an attached appendix for detail.",
+        "workplaceExample": "The donor specifically praised the concise reporting format the team adopted for monthly updates.",
+        "relatedTerms": [
+          "Conciseness",
+          "Audience awareness"
+        ]
+      },
+      {
+        "term": "Follow-through",
+        "category": "Workplace Communication",
+        "simpleDefinition": "Actually completing what you said you would do, and confirming that you did.",
+        "professionalDefinition": "The consistent completion and confirmation of commitments made during a discussion, decision, or agreement.",
+        "exampleSentence": "Her follow-through on action items was part of why colleagues trusted her updates.",
+        "workplaceExample": "Sending a short confirmation once an agreed task was completed was a simple follow-through habit that built trust with the field team.",
+        "relatedTerms": [
+          "Action item",
+          "Accountability"
+        ]
+      }
+    ],
+    "speakingScenarios": [
+      {
+        "situation": "Summarize your first ten days of practice to a mentor, in under 90 seconds.",
+        "category": "Interview",
+        "framework": "PREP",
+        "guidance": "Treat this as a capstone PREP answer. Point: what you focused on. Reason: why that focus mattered. Example: one specific moment of progress. Point: what's next.",
+        "modelAnswer": "Over the last ten days, I've focused on structuring what I say before I say it, using the PREP framework, across topics from procurement to donor compliance. That mattered because I noticed I used to bury my main point three or four sentences into an answer, which made me sound less confident than I actually was. The clearest example was explaining a budget variance out loud for the first time without slipping into accounting jargon — it took real effort to keep it audience-aware. Going forward, I want to get that same structure working under more spontaneous, less prepared conditions."
+      },
+      {
+        "situation": "A colleague asks what you've been working on to improve your professional communication.",
+        "category": "Workplace Communication",
+        "framework": "Headline → Detail → Next Step",
+        "guidance": "Casual but structured — this is a chance to practice the same skill in a lower-stakes, informal tone.",
+        "modelAnswer": "I've been working on speaking more clearly and concisely, especially explaining finance and logistics topics to people without that background. It's been useful — I'm noticing filler words and rambling explanations a lot more than I used to. Next, I want to get better at doing this on the spot, without time to prepare first."
+      }
+    ]
+  }
+]

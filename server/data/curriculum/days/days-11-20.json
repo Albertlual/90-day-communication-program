@@ -1,0 +1,1264 @@
+[
+  {
+    "dayNumber": 11,
+    "phase": "foundation",
+    "theme": "Rapport and Real Listening",
+    "isMilestone": false,
+    "reviewFocus": null,
+    "tongueTwister": {
+      "text": "Ruby rarely reads rapid reports.",
+      "difficulty": "beginner-intermediate",
+      "focusSound": "R repetition",
+      "repetitionTarget": 5
+    },
+    "reading": {
+      "title": "Rapport and the First Ninety Seconds",
+      "author": null,
+      "sourceType": "original",
+      "content": "Rapport is often treated as something that either exists between two people or doesn't — a matter of personality or chemistry outside anyone's control. In professional settings, this isn't quite right. Rapport is built, deliberately, in the first minute or two of an interaction, through a small number of specific behaviors that anyone can practice.\n\nThe most reliable of these is genuine attention: making eye contact, not checking a phone or a clock, and responding to what the other person actually says rather than waiting to deliver a prepared line. A second is finding a small, real point of shared context — not forced small talk, but a genuine observation about the situation you're both in. A third, easy to overlook, is matching energy rather than overpowering it: an overly enthusiastic opening can feel as mismatched as a flat one, if the other person is measured and businesslike.\n\nInterviews are a useful test case, because rapport there has to be built quickly, with a stranger, under mild pressure on both sides. An interviewer who feels some rapport with a candidate in the first few minutes tends to interpret ambiguous answers more generously for the rest of the conversation — not because they're being unfair, but because first impressions genuinely color how later information gets processed. This is not a reason to perform false warmth. It's a reason to actually listen in the opening moments, rather than mentally rehearsing your next answer while the other person is still talking.\n\nRapport built this way tends to hold up under scrutiny, because it's based on real attention rather than technique alone. Technique without attention is usually noticeable, and it tends to undermine the very trust it's meant to build.",
+      "estimatedMinutes": 2,
+      "keyConcepts": [
+        "Rapport is built through specific, practiceable behaviors, not just personality",
+        "Genuine attention matters more than rehearsed warmth",
+        "First impressions color how later information in a conversation is interpreted",
+        "Technique without real attention tends to undermine trust rather than build it"
+      ]
+    },
+    "reflectionQuestions": [
+      "What three behaviors does the reading identify as building rapport quickly?",
+      "Why does the reading argue that 'technique without attention' can undermine trust?",
+      "Think of a recent first meeting (an interview, a new colleague) — which of these behaviors were present or missing?",
+      "What question does this reading leave you with about building rapport in your own work?"
+    ],
+    "speedReading": {
+      "passage": "The type of question you ask shapes the kind of answer you get, and professionals who communicate well tend to move deliberately between two question types depending on what they actually need: open-ended questions, which invite explanation and detail, and closed-ended questions, which invite a short, specific, often yes-or-no answer.\n\nOpen-ended questions are useful early in a conversation, when the goal is to understand a situation fully before acting. 'What happened with the shipment?' invites a fuller account than 'Did the shipment arrive?' — and that fuller account often surfaces details a closed question would have missed entirely. The risk of relying only on open questions is that a conversation can drift without ever reaching a clear, actionable answer.\n\nClosed-ended questions are useful once enough context exists and a specific fact or decision is needed. 'Will the replacement item arrive by Friday?' gets a usable answer quickly; 'Tell me about the replacement plan' might produce a long explanation when a date was all that was actually needed. Overusing closed questions too early, however, can shut down information the asker didn't know to ask for directly.\n\nSkilled interviewers, negotiators, and managers tend to move between the two deliberately: opening with broader, open-ended questions to surface the full picture, then narrowing with closed questions to confirm specific facts or commitments once the picture is clear enough. Someone who asks only closed questions can come across as interrogating rather than listening; someone who asks only open questions can struggle to ever land on a decision.\n\nThis is a small, learnable skill with an outsized effect on how conversations feel to the other person — and on how much useful information actually gets exchanged in a limited amount of time.",
+      "wordCount": 286,
+      "comprehensionQuestions": [
+        "According to the passage, when are open-ended questions most useful?",
+        "Give the passage's example contrasting an open-ended and closed-ended question about a shipment.",
+        "What does the passage say happens if someone asks only closed questions?"
+      ]
+    },
+    "vocabulary": [
+      {
+        "term": "Rapport",
+        "category": "Professional Communication",
+        "simpleDefinition": "A friendly, trusting connection between two people.",
+        "professionalDefinition": "A state of mutual understanding and trust between individuals, typically built through attentive, responsive interaction.",
+        "exampleSentence": "She built rapport with the interview panel within the first two minutes by genuinely listening to their questions.",
+        "workplaceExample": "Taking a moment to ask a colleague how their week is going, and actually listening to the answer, builds rapport before getting into a difficult conversation.",
+        "relatedTerms": [
+          "Active listening",
+          "Body language"
+        ]
+      },
+      {
+        "term": "Tone of voice",
+        "category": "Professional Communication",
+        "simpleDefinition": "The way something is said, not just the words themselves.",
+        "professionalDefinition": "The vocal quality, pitch, and manner of delivery that conveys attitude, emotion, or intent alongside the literal content of speech.",
+        "exampleSentence": "The words were polite, but her tone of voice made the frustration clear.",
+        "workplaceExample": "The same sentence — 'that's not what we agreed' — lands very differently depending on tone of voice: as a factual correction, or as an accusation.",
+        "relatedTerms": [
+          "Professional presence"
+        ]
+      },
+      {
+        "term": "Paraphrasing",
+        "category": "Professional Communication",
+        "simpleDefinition": "Repeating back what someone said, in your own words, to make sure you understood.",
+        "professionalDefinition": "Restating another person's message in one's own words to confirm understanding and demonstrate active engagement.",
+        "exampleSentence": "Paraphrasing the client's concern back to them confirmed the team had understood the real issue.",
+        "workplaceExample": "'So if I understand correctly, the delay is with customs, not the supplier?' is paraphrasing used to confirm before responding.",
+        "relatedTerms": [
+          "Active listening",
+          "Open-ended question"
+        ]
+      },
+      {
+        "term": "Body language",
+        "category": "Professional Communication",
+        "simpleDefinition": "Communicating through posture, gestures, and facial expressions, not words.",
+        "professionalDefinition": "Non-verbal cues — including posture, gestures, facial expression, and eye contact — that convey attitude, confidence, or engagement alongside spoken communication.",
+        "exampleSentence": "His body language — leaning in, steady eye contact — signaled genuine interest before he said a word.",
+        "workplaceExample": "Crossed arms and a lack of eye contact during a status update can undercut a confident-sounding update, regardless of the words used.",
+        "relatedTerms": [
+          "Rapport",
+          "Professional presence"
+        ]
+      },
+      {
+        "term": "Open-ended question",
+        "category": "Professional Communication",
+        "simpleDefinition": "A question that invites a full explanation, not just yes or no.",
+        "professionalDefinition": "A question phrased to invite explanation, detail, or elaboration rather than a brief factual response.",
+        "exampleSentence": "'What happened with the shipment?' is an open-ended question that invites a full account.",
+        "workplaceExample": "Starting a difficult conversation with 'walk me through what happened' rather than 'did you make a mistake?' opens with an open-ended question.",
+        "relatedTerms": [
+          "Closed-ended question",
+          "Paraphrasing"
+        ]
+      },
+      {
+        "term": "Closed-ended question",
+        "category": "Professional Communication",
+        "simpleDefinition": "A question that invites a short, specific answer, often yes or no.",
+        "professionalDefinition": "A question phrased to invite a brief, specific, often binary response rather than elaboration.",
+        "exampleSentence": "'Will the replacement item arrive by Friday?' is a closed-ended question aimed at a specific commitment.",
+        "workplaceExample": "Once the full picture of a delay is understood, a closed-ended question like 'so, Thursday delivery, confirmed?' locks in the specific fact needed.",
+        "relatedTerms": [
+          "Open-ended question"
+        ]
+      }
+    ],
+    "speakingScenarios": [
+      {
+        "situation": "In an interview, you're asked: 'What would you say is your greatest strength?'",
+        "category": "Interview",
+        "framework": "PREP",
+        "guidance": "Pick one specific, demonstrable strength rather than a generic list. Back it with a concrete example from your actual background, not a hypothetical.",
+        "modelAnswer": "One of my strongest skills is keeping finance and logistics coordinated so nothing falls through the gap between them. That matters because in my experience, delays and discrepancies usually happen exactly at that handoff point between departments. For example, in my role at Mayar Medical Centre, I regularly reconciled stock records against procurement and financial documentation, which meant issues got caught early rather than surfacing later at audit time. So if I had to name one strength, it's that cross-functional reliability — being the person who keeps the finance and operations sides of a task aligned."
+      },
+      {
+        "situation": "A colleague gives you an instruction that's unclear, and you need to ask for clarification without seeming like you weren't listening.",
+        "category": "Workplace Communication",
+        "framework": "Open Question → Confirm",
+        "guidance": "Use an open-ended question to get the missing detail, then paraphrase back a closed, specific confirmation before acting.",
+        "modelAnswer": "Could you walk me through what you'd like the final report to include? I want to make sure I capture it right the first time. So to confirm — you'd like the variance explanation before the summary table, not after. Is that right?"
+      }
+    ]
+  },
+  {
+    "dayNumber": 12,
+    "phase": "foundation",
+    "theme": "When Procurement Deviates from Standard",
+    "isMilestone": false,
+    "reviewFocus": null,
+    "tongueTwister": {
+      "text": "Six sourcing suppliers signed six sound contracts.",
+      "difficulty": "intermediate",
+      "focusSound": "S / soft-C cluster",
+      "repetitionTarget": 4
+    },
+    "reading": {
+      "title": "When Procurement Deviates from the Standard Cycle",
+      "author": null,
+      "sourceType": "original",
+      "content": "The procurement cycle covered earlier — requisition, sourcing, evaluation, purchase order, delivery — describes the standard path for most purchases. But experienced procurement staff also need to recognize when, and why, an organization deviates from that standard path, because deviations that are properly justified look very different from deviations that are simply shortcuts.\n\nA framework agreement is one legitimate deviation: instead of running a full tender for every individual purchase, an organization pre-negotiates terms with one or more qualified suppliers once, then places repeat orders against that agreement without re-tendering each time. This trades some short-term competitive pricing for significant speed and administrative savings on recurring purchases — appropriate for routine items, less appropriate for large one-off purchases where competition matters more.\n\nDirect or sole-source procurement — buying from a single supplier without competitive tendering — is a second deviation, and a more sensitive one. It's sometimes genuinely justified: a genuine emergency where time doesn't allow for a tender, a sole legitimate supplier for a specialized item, or a very low-value purchase below the organization's threshold. It's also the deviation most likely to attract scrutiny, because it removes the competitive check that normally protects against overpricing or favoritism. This is why sole-source purchases typically require a written justification and a higher level of approval than a standard tendered purchase.\n\nThe distinction that matters, in both cases, isn't whether the standard cycle was followed exactly — it's whether the deviation was deliberate, justified, approved, and documented, or simply the standard process being skipped under pressure. An auditor reviewing a sole-source purchase isn't primarily asking 'why wasn't this tendered?' — they're asking 'was there a documented, approved reason this wasn't tendered?' Those are very different questions to be able to answer.",
+      "estimatedMinutes": 2,
+      "keyConcepts": [
+        "Framework agreements trade full competition for speed on recurring purchases",
+        "Sole-source procurement removes a competitive check and requires strong justification",
+        "Deviations from the standard cycle can be legitimate if deliberate, approved, and documented",
+        "The audit question is whether a deviation was justified, not whether the standard process was followed exactly"
+      ]
+    },
+    "reflectionQuestions": [
+      "In your own words, what is a framework agreement, and when is it an appropriate deviation from the standard procurement cycle?",
+      "Why does the reading say sole-source procurement attracts more scrutiny than a standard tendered purchase?",
+      "What's the real question an auditor asks about a sole-source purchase, according to the reading?",
+      "Can you think of a situation in your own work context where a deviation from a standard process would need to be justified and documented?"
+    ],
+    "speedReading": {
+      "passage": "When multiple suppliers submit bids for a tender, choosing between them looks, from the outside, like a simple comparison of price. In a well-run procurement process, it's actually a structured evaluation against multiple weighted criteria, decided in advance, before any bids are opened — and that sequencing matters more than it might seem.\n\nDeciding evaluation criteria in advance, before seeing any bids, protects the process from being unconsciously adjusted to favor a preferred supplier once their number is known. Typical criteria include price, but also technical compliance with the specification, delivery timeline, warranty or after-sales support, and the supplier's track record on similar past contracts. Each criterion is usually assigned a weight reflecting its relative importance for that specific purchase — for a routine consumable, price might carry most of the weight; for specialized equipment, technical compliance and after-sales support might matter more.\n\nVendor pre-qualification often happens even earlier, screening out suppliers who don't meet basic requirements — proper business registration, financial stability, relevant experience — before they're even invited to bid, which keeps the evaluation stage focused on genuinely comparable options.\n\nThe concept of value for money captures why this structure matters: the lowest bid is not automatically the best bid. A supplier offering a significantly lower price but a poor delivery record, weak technical compliance, or no after-sales support may represent worse value overall, once the full cost of likely delays, rework, or support gaps is considered. A well-documented bid evaluation makes that judgment defensible and transparent, rather than a matter of individual preference — which is exactly what protects the process, and the people running it, from later questions about how a decision was actually made.",
+      "wordCount": 279,
+      "comprehensionQuestions": [
+        "Why does the passage say evaluation criteria should be decided before bids are opened?",
+        "Name two of the typical bid evaluation criteria mentioned besides price.",
+        "According to the passage, why is the lowest bid not automatically the best bid?"
+      ]
+    },
+    "vocabulary": [
+      {
+        "term": "Framework agreement",
+        "category": "Procurement",
+        "simpleDefinition": "A pre-agreed deal with a supplier that lets you place repeat orders without re-tendering each time.",
+        "professionalDefinition": "A pre-negotiated agreement with one or more qualified suppliers establishing terms for repeat purchases over a defined period, without requiring a new tender for each order.",
+        "exampleSentence": "The framework agreement with the stationery supplier saved weeks of repeated tendering over the year.",
+        "workplaceExample": "Routine items like office supplies or fuel were purchased under a framework agreement, while large equipment purchases still went through full tendering.",
+        "relatedTerms": [
+          "Tendering",
+          "Vendor pre-qualification"
+        ]
+      },
+      {
+        "term": "Direct/sole-source procurement",
+        "category": "Procurement",
+        "simpleDefinition": "Buying from one supplier without inviting competing offers.",
+        "professionalDefinition": "A procurement method involving purchase from a single supplier without a competitive tendering process, typically justified by emergency, sole supplier availability, or low value.",
+        "exampleSentence": "Sole-source procurement was used because only one supplier in the region carried the required spare part.",
+        "workplaceExample": "The sole-source purchase required a written justification and country director sign-off before it could proceed.",
+        "relatedTerms": [
+          "Framework agreement",
+          "Procurement threshold"
+        ]
+      },
+      {
+        "term": "Bid evaluation criteria",
+        "category": "Procurement",
+        "simpleDefinition": "The standards used to judge and compare supplier offers.",
+        "professionalDefinition": "The predefined, weighted standards — such as price, quality, delivery time, and track record — against which competing bids are formally assessed.",
+        "exampleSentence": "The bid evaluation criteria were finalized and documented before any bids were opened.",
+        "workplaceExample": "Technical compliance carried more weight than price in the bid evaluation criteria for the medical equipment tender.",
+        "relatedTerms": [
+          "Value for money",
+          "Supplier evaluation"
+        ]
+      },
+      {
+        "term": "Procurement threshold",
+        "category": "Procurement",
+        "simpleDefinition": "The value above which a stricter or more formal purchasing process is required.",
+        "professionalDefinition": "The monetary value at which a purchase becomes subject to a more formal procurement process, such as mandatory tendering or higher-level approval.",
+        "exampleSentence": "Purchases above the procurement threshold required three competitive quotations.",
+        "workplaceExample": "A purchase just under the procurement threshold could be approved by the office manager alone.",
+        "relatedTerms": [
+          "Direct/sole-source procurement"
+        ]
+      },
+      {
+        "term": "Vendor pre-qualification",
+        "category": "Procurement",
+        "simpleDefinition": "Checking that a supplier meets basic requirements before they're allowed to bid.",
+        "professionalDefinition": "A screening process assessing a potential supplier's registration, financial stability, and relevant experience before they are invited to participate in a tender.",
+        "exampleSentence": "Vendor pre-qualification eliminated two suppliers who couldn't provide proof of business registration.",
+        "workplaceExample": "Only pre-qualified vendors were invited to submit a bid for the warehouse construction tender.",
+        "relatedTerms": [
+          "Framework agreement",
+          "Bid evaluation criteria"
+        ]
+      },
+      {
+        "term": "Value for money",
+        "category": "Procurement",
+        "simpleDefinition": "Getting the best overall outcome, not just the lowest price.",
+        "professionalDefinition": "A procurement principle assessing the best overall combination of price, quality, delivery reliability, and support, rather than price alone.",
+        "exampleSentence": "The slightly more expensive supplier represented better value for money once delivery reliability was factored in.",
+        "workplaceExample": "The evaluation explicitly noted that the lowest bidder was not selected, on value-for-money grounds tied to their weak delivery record.",
+        "relatedTerms": [
+          "Bid evaluation criteria"
+        ]
+      }
+    ],
+    "speakingScenarios": [
+      {
+        "situation": "Explain to an internal auditor why a recent purchase went through sole-source procurement rather than a full tender.",
+        "category": "Procurement",
+        "framework": "PREP",
+        "guidance": "Lead with the justification and documentation, not defensiveness. Auditors respond well to a clear, confident sequence.",
+        "modelAnswer": "This purchase went through sole-source procurement because it was a specialized spare part with only one authorized supplier in the region, and the equipment was down and affecting operations. That's the reason it qualified as an exception rather than a policy shortcut. For example, we still obtained written justification and sign-off from the country director before the purchase, exactly as the sole-source policy requires. So the process itself wasn't skipped — it followed the documented exception procedure rather than the standard tender procedure."
+      },
+      {
+        "situation": "A colleague pushes back, asking why their urgent request wasn't fast-tracked the same way.",
+        "category": "Workplace Communication",
+        "framework": "Acknowledge → Clarify → Propose",
+        "guidance": "Explain the distinction between genuine exception criteria and general urgency without dismissing the colleague's frustration.",
+        "modelAnswer": "I understand the frustration — waiting feels the same regardless of the reason. The difference is that the sole-source exception applies to very specific situations, like a single available supplier or a genuine emergency, and your request doesn't currently meet that bar on its own. What I can propose is fast-tracking it through the standard process instead — I can prioritize your requisition today if you can get me the specification by this afternoon."
+      }
+    ]
+  },
+  {
+    "dayNumber": 13,
+    "phase": "foundation",
+    "theme": "The Last Mile",
+    "isMilestone": false,
+    "reviewFocus": null,
+    "tongueTwister": {
+      "text": "Trucks track tight transit times.",
+      "difficulty": "intermediate",
+      "focusSound": "T / TR cluster",
+      "repetitionTarget": 5
+    },
+    "reading": {
+      "title": "Getting Goods the Last Mile",
+      "author": null,
+      "sourceType": "original",
+      "content": "The 'last mile' in logistics refers to the final stage of a delivery journey — from a local distribution point to the actual end user or site. It's a small fraction of total distance in most supply chains, and disproportionately the most difficult, expensive, and unpredictable part of the entire journey.\n\nThe reasons are mostly structural. Earlier stages of a supply chain — international shipping, regional warehousing — tend to move large, consolidated quantities along predictable, well-maintained routes. The last mile usually means smaller, more frequent deliveries along the least predictable infrastructure: unpaved roads, seasonal flooding, informal addresses, or locations with no formal address at all. A shipment that moved efficiently for thousands of kilometers can still be delayed by days on the final thirty.\n\nChoice of transport modality matters more at this stage than earlier ones. Road transport is usually cheapest and most flexible but most exposed to route conditions; air transport is fastest but expensive and often impractical for bulky goods; water transport can move large volumes cheaply where navigable routes exist, but adds handling steps at each port. For time-sensitive or high-value last-mile deliveries, organizations sometimes combine modalities — moving goods in bulk by road to a hub, then completing the final stretch by a smaller vehicle suited to difficult terrain.\n\nFor imported goods, customs clearance adds another variable entirely, sitting between international transport and the last mile. Clearance delays are common and often outside an organization's direct control, which is why experienced logistics staff build clearance time into a delivery estimate as a distinct, separately tracked stage — rather than folding it into a single vague 'transport' timeline that makes it impossible to tell, later, where exactly the time actually went.",
+      "estimatedMinutes": 2,
+      "keyConcepts": [
+        "The last mile is a small distance but disproportionately difficult and unpredictable",
+        "Transport modality choice matters most at the last-mile stage",
+        "Combining transport modalities can suit difficult final-stretch terrain",
+        "Customs clearance should be tracked as a distinct stage, not folded into 'transport'"
+      ]
+    },
+    "reflectionQuestions": [
+      "In your own words, why is the 'last mile' often the hardest part of a delivery, despite being the shortest distance?",
+      "What trade-offs does the reading describe between road, air, and water transport?",
+      "Why does the reading recommend tracking customs clearance as a separate stage rather than lumping it into 'transport'?",
+      "What last-mile delivery challenge would you want to understand better in your own context?"
+    ],
+    "speedReading": {
+      "passage": "Moving goods internationally involves more coordination than most people outside logistics realize: booking transport capacity, preparing shipping documentation, managing customs paperwork on both ends, and coordinating handoffs between different transport providers who may never otherwise interact with each other. A freight forwarder exists to manage that coordination on behalf of the organization shipping the goods, rather than the organization managing each piece directly.\n\nThis matters more than it might first appear, because a shipment often isn't just one continuous journey with one responsible party — it's a consignment handed from a trucking company, to a shipping line or airline, to a customs broker, to another trucking company, with each handoff a potential point of delay or lost information. A freight forwarder's job is to be the single point of accountability across that whole chain, holding the relationships and documentation that let them answer, at any point, exactly where a shipment is and why.\n\nWorking with a good freight forwarder doesn't eliminate delays — weather, customs backlogs, and capacity shortages are largely outside anyone's control — but it does eliminate a specific and very common problem: not knowing where a shipment is, or who to ask. An organization managing international shipments directly, without a forwarder, often discovers a delay only when the goods fail to arrive on the expected date, with no visibility into which of the several handoff points caused it.\n\nThe practical implication for anyone receiving shipments arranged by a freight forwarder is straightforward: the forwarder is usually the fastest, most specific source of an actual status update — faster than guessing, and far faster than waiting for the shipment to simply arrive or not.",
+      "wordCount": 276,
+      "comprehensionQuestions": [
+        "According to the passage, what does a freight forwarder manage on behalf of a shipping organization?",
+        "What specific problem does the passage say a good freight forwarder eliminates, even though it can't eliminate all delays?",
+        "What does the passage recommend doing if you're waiting on a shipment arranged by a freight forwarder?"
+      ]
+    },
+    "vocabulary": [
+      {
+        "term": "Last-mile delivery",
+        "category": "Logistics & Supply Chain",
+        "simpleDefinition": "The final leg of a delivery, from a local point to the actual end user.",
+        "professionalDefinition": "The final stage of a delivery journey, from a local distribution point to the ultimate recipient or site of use, often the most unpredictable segment of a supply chain.",
+        "exampleSentence": "Last-mile delivery to the remote clinic added two extra days compared to the estimate.",
+        "workplaceExample": "The team budgeted extra time specifically for last-mile delivery to sites without paved road access.",
+        "relatedTerms": [
+          "Transport modality",
+          "Dispatch"
+        ]
+      },
+      {
+        "term": "Transport modality",
+        "category": "Logistics & Supply Chain",
+        "simpleDefinition": "The mode of transport used to move goods, such as road, air, or water.",
+        "professionalDefinition": "The specific mode of transport — such as road, air, rail, or water — selected to move goods, chosen based on cost, speed, and route conditions.",
+        "exampleSentence": "Air transport was chosen as the modality for the time-sensitive medical shipment despite the higher cost.",
+        "workplaceExample": "The team combined transport modalities: bulk road transport to the regional hub, then smaller vehicles for the final stretch.",
+        "relatedTerms": [
+          "Last-mile delivery",
+          "Freight forwarder"
+        ]
+      },
+      {
+        "term": "Customs clearance",
+        "category": "Logistics & Supply Chain",
+        "simpleDefinition": "The process of getting goods legally approved to cross a border.",
+        "professionalDefinition": "The formal process of obtaining official approval for goods to enter or exit a country, involving documentation, inspection, and payment of applicable duties.",
+        "exampleSentence": "Customs clearance took four days longer than the shipment's actual transport time.",
+        "workplaceExample": "The delivery estimate tracked customs clearance as its own stage, separate from transport time.",
+        "relatedTerms": [
+          "Freight forwarder",
+          "Consignment"
+        ]
+      },
+      {
+        "term": "Cold chain",
+        "category": "Logistics & Supply Chain",
+        "simpleDefinition": "A supply chain that keeps sensitive items at the right temperature the whole way through.",
+        "professionalDefinition": "A temperature-controlled supply chain maintaining specific conditions continuously from origin to point of use, essential for perishable or temperature-sensitive goods.",
+        "exampleSentence": "A single break in the cold chain during transport rendered the vaccine shipment unusable.",
+        "workplaceExample": "Cold chain requirements meant the medical supplies needed a refrigerated vehicle for every leg of the journey.",
+        "relatedTerms": [
+          "Perishable goods handling"
+        ]
+      },
+      {
+        "term": "Freight forwarder",
+        "category": "Logistics & Supply Chain",
+        "simpleDefinition": "A company that arranges and coordinates the transport of goods on your behalf.",
+        "professionalDefinition": "A third-party organization that coordinates the shipment of goods on behalf of a shipper, managing bookings, documentation, and handoffs across multiple transport providers.",
+        "exampleSentence": "The freight forwarder confirmed the shipment was cleared and moving to the next handoff point.",
+        "workplaceExample": "Instead of contacting three separate transport providers, the team called the freight forwarder for a single status update.",
+        "relatedTerms": [
+          "Customs clearance",
+          "Consignment"
+        ]
+      },
+      {
+        "term": "Consignment",
+        "category": "Logistics & Supply Chain",
+        "simpleDefinition": "A batch of goods shipped together to a specific recipient.",
+        "professionalDefinition": "A distinct batch of goods shipped together under a single set of transport and customs documentation to a specific recipient.",
+        "exampleSentence": "The consignment included both medical supplies and office equipment, sharing one set of shipping documents.",
+        "workplaceExample": "Each consignment was tracked separately, even when multiple consignments traveled on the same truck.",
+        "relatedTerms": [
+          "Freight forwarder",
+          "Customs clearance"
+        ]
+      }
+    ],
+    "speakingScenarios": [
+      {
+        "situation": "Explain to a new team member why last-mile delivery is often the hardest part of getting supplies to a field site.",
+        "category": "Logistics & Supply Chain",
+        "framework": "PREP",
+        "guidance": "Point: state the counterintuitive fact clearly. Reason: explain the structural cause. Example: use a concrete case. Point: close with the practical implication.",
+        "modelAnswer": "The last mile is usually the hardest part of a delivery, even though it's the shortest distance. That's because it depends on local infrastructure, which is far less predictable than the earlier legs of the journey — unpaved roads, seasonal access issues, sites without a formal address. For example, we've had shipments move smoothly for hundreds of kilometers by truck, then sit for two extra days because the final stretch of road was affected by rain. So when I'm estimating a delivery timeline, I treat the last mile as its own separate, higher-risk stage, not just the final few minutes of the journey."
+      },
+      {
+        "situation": "A shipment is stuck in customs clearance and a colleague at the field site needs an update.",
+        "category": "Workplace Communication",
+        "framework": "Problem → Cause → Update",
+        "guidance": "Be specific about which stage the shipment is actually in, and give a concrete next step or timeframe.",
+        "modelAnswer": "The shipment has cleared international transport — it's currently held at customs clearance, which is a separate stage from the actual delivery. Our freight forwarder says clearance is expected to complete within two working days. I'll update you the moment it clears and moves into last-mile transport, so you'll have real notice before it's due to arrive."
+      }
+    ]
+  },
+  {
+    "dayNumber": 14,
+    "phase": "foundation",
+    "theme": "Who Gets Help, and How We Decide",
+    "isMilestone": false,
+    "reviewFocus": null,
+    "tongueTwister": {
+      "text": "Careful coordinators consider community consequences.",
+      "difficulty": "intermediate",
+      "focusSound": "K/C cluster, multi-syllable",
+      "repetitionTarget": 4
+    },
+    "reading": {
+      "title": "Who Gets Help, and How We Decide",
+      "author": null,
+      "sourceType": "original",
+      "content": "Deciding who receives assistance in a humanitarian programme is rarely as simple as 'everyone in need.' Resources are limited, need often exceeds capacity, and a programme that tries to help everyone a little often ends up helping no one enough. This is why targeting criteria exist: specific, defined standards used to decide who is prioritized for assistance, developed before distribution begins, not improvised at the distribution site.\n\nGood targeting criteria are concrete and verifiable — household size, specific vulnerability indicators, geographic proximity to a documented need — rather than vague categories that different staff might interpret differently. Vague criteria don't just risk inconsistency; they risk real unfairness, where access to assistance depends more on who happens to be assessing a case than on actual need.\n\nThis connects directly to a foundational humanitarian principle: do no harm. The idea is straightforward but easy to underestimate in practice — that an intervention meant to help can, if poorly designed, create new problems: distributing aid at a location that draws dangerous crowds, providing assistance in a way that creates tension between those who receive it and those who don't, or targeting criteria that inadvertently exclude an especially vulnerable group because it wasn't specifically considered.\n\nPost-distribution monitoring exists to catch these problems after the fact, when they weren't anticipated in advance: following up with a sample of recipients (and sometimes non-recipients) to check whether the assistance actually reached the intended people, was used as intended, and didn't create unintended negative effects. This feedback loop is what allows targeting criteria to improve over successive rounds of a programme, rather than repeating the same design regardless of what actually happened on the ground.",
+      "estimatedMinutes": 2,
+      "keyConcepts": [
+        "Targeting criteria should be concrete and verifiable, decided before distribution",
+        "Do no harm means considering how an intervention could create new problems",
+        "Post-distribution monitoring catches problems that weren't anticipated in advance",
+        "Feedback from monitoring should improve targeting criteria over successive rounds"
+      ]
+    },
+    "reflectionQuestions": [
+      "In your own words, why does the reading say vague targeting criteria risk more than just inconsistency?",
+      "Explain the 'do no harm' principle as if to someone unfamiliar with humanitarian work.",
+      "What is post-distribution monitoring, and what problem is it designed to catch?",
+      "What question would you want to ask about how targeting decisions are made in a programme you're familiar with?"
+    ],
+    "speedReading": {
+      "passage": "Humanitarian assistance can be delivered in different forms, and the choice between them is a genuine operational decision, not just a matter of preference. In-kind aid — physical goods like food, shelter materials, or medical supplies — has long been the default in many contexts, but cash-based transfers, giving recipients cash or vouchers to purchase what they need themselves, have become increasingly common where local markets can support them.\n\nThe case for cash-based transfers rests on a few practical advantages. It gives recipients the flexibility to prioritize their own most urgent need, which isn't always the same for every household even within a similar crisis. It can also be significantly cheaper to deliver than physical goods, avoiding the transport, storage, and distribution costs of moving items across a supply chain. And where local markets are functioning, cash spent locally can support the broader local economy, rather than goods procured and shipped in from elsewhere.\n\nIn-kind aid remains the better choice in several situations: where local markets have collapsed or can't supply what's needed, where a very specific item is required that isn't reliably available locally, or where cash is at high risk of diversion or misuse in that specific context. The decision isn't a fixed policy choice — well-run programmes assess market functionality, security context, and the nature of the need before deciding which approach, or which combination, fits a specific situation.\n\nThis decision also affects burn rate — how quickly a programme's budget is spent over time. Cash transfers often have a more predictable, front-loaded spending pattern than procurement-heavy in-kind programmes, which can spike unpredictably around major purchases and shipments — a difference finance teams need to plan around, not just operations teams.",
+      "wordCount": 284,
+      "comprehensionQuestions": [
+        "Name two practical advantages the passage gives for cash-based transfers over in-kind aid.",
+        "According to the passage, when does in-kind aid remain the better choice?",
+        "How does the passage connect the cash-versus-in-kind decision to burn rate?"
+      ]
+    },
+    "vocabulary": [
+      {
+        "term": "Do no harm",
+        "category": "Humanitarian Operations",
+        "simpleDefinition": "A principle that aid should never make a bad situation worse.",
+        "professionalDefinition": "A foundational humanitarian principle requiring that interventions be designed to avoid creating unintended negative consequences for the population they aim to help.",
+        "exampleSentence": "The do no harm review flagged that the original distribution site could draw dangerous crowds.",
+        "workplaceExample": "Applying do no harm meant relocating a distribution point away from a contested boundary area.",
+        "relatedTerms": [
+          "Targeting criteria",
+          "Post-distribution monitoring"
+        ]
+      },
+      {
+        "term": "Targeting criteria",
+        "category": "Humanitarian Operations",
+        "simpleDefinition": "The specific standards used to decide who receives assistance.",
+        "professionalDefinition": "Predefined, verifiable standards used to determine which individuals or households are prioritized for assistance within a programme.",
+        "exampleSentence": "The targeting criteria were finalized and documented before the distribution list was compiled.",
+        "workplaceExample": "Household size and a documented vulnerability score were the two main targeting criteria for the distribution.",
+        "relatedTerms": [
+          "Needs assessment",
+          "Beneficiary"
+        ]
+      },
+      {
+        "term": "Cash-based transfer",
+        "category": "Humanitarian Operations",
+        "simpleDefinition": "Giving people cash or vouchers instead of physical goods.",
+        "professionalDefinition": "A form of humanitarian assistance providing recipients with cash or vouchers to purchase goods or services themselves, rather than distributing physical items directly.",
+        "exampleSentence": "The cash-based transfer let households prioritize their own most urgent need.",
+        "workplaceExample": "A market assessment confirmed local supply was strong enough to support a cash-based transfer instead of in-kind food aid.",
+        "relatedTerms": [
+          "Needs assessment"
+        ]
+      },
+      {
+        "term": "Post-distribution monitoring",
+        "category": "Humanitarian Operations",
+        "simpleDefinition": "Checking after a distribution that aid actually reached and helped the right people.",
+        "professionalDefinition": "A follow-up process assessing whether distributed assistance reached intended recipients, was used as intended, and produced no unintended negative effects.",
+        "exampleSentence": "Post-distribution monitoring revealed that some recipients had sold part of their allocation to cover transport costs.",
+        "workplaceExample": "The team called a sample of recipients two weeks after distribution as part of post-distribution monitoring.",
+        "relatedTerms": [
+          "Do no harm",
+          "Targeting criteria"
+        ]
+      },
+      {
+        "term": "Grant agreement",
+        "category": "Humanitarian Operations",
+        "simpleDefinition": "The formal contract between a donor and the organization receiving the funding.",
+        "professionalDefinition": "The formal legal contract between a donor and an implementing organization, specifying funding terms, activities, reporting requirements, and compliance obligations.",
+        "exampleSentence": "The grant agreement specified quarterly financial reporting as a condition of funding.",
+        "workplaceExample": "Any change to planned activities had to be checked against the grant agreement before proceeding.",
+        "relatedTerms": [
+          "Donor compliance"
+        ]
+      },
+      {
+        "term": "Burn rate",
+        "category": "Humanitarian Operations",
+        "simpleDefinition": "How quickly a programme's budget is being spent over time.",
+        "professionalDefinition": "The rate at which a programme's allocated budget is expended over a given period, used to monitor whether spending is on pace with the funding period.",
+        "exampleSentence": "The burn rate showed the programme was on track to exhaust its budget two months before the grant period ended.",
+        "workplaceExample": "Finance flagged the accelerated burn rate to the programme manager while there was still time to adjust.",
+        "relatedTerms": [
+          "Grant agreement",
+          "Budget variance"
+        ]
+      }
+    ],
+    "speakingScenarios": [
+      {
+        "situation": "A donor representative asks how targeting criteria are decided for a distribution.",
+        "category": "Humanitarian Operations",
+        "framework": "PREP",
+        "guidance": "This question is checking for rigor and consistency. Name the specific, verifiable criteria used, not a general description of fairness.",
+        "modelAnswer": "Targeting criteria are set before distribution begins, based on concrete, verifiable indicators like household size and specific vulnerability factors, not general impressions. That's important because vague criteria risk real inconsistency, where two staff members might make different decisions about the same case. For example, our last distribution used documented household vulnerability assessments rather than staff judgment on the day, which meant every decision could be reviewed and explained afterward. So the short answer is: criteria are defined in advance, applied consistently, and checked afterward through post-distribution monitoring."
+      },
+      {
+        "situation": "You need to raise a concern that the programme's burn rate is running ahead of schedule, risking a funding shortfall before the grant period ends.",
+        "category": "Workplace Communication",
+        "framework": "Situation → Impact → Request",
+        "guidance": "State the current pace factually, explain the concrete risk if it continues, and end with a specific, actionable request.",
+        "modelAnswer": "I want to flag that we've spent about 60% of the grant budget at the halfway point of the grant period, which is ahead of a straight-line pace. If that continues, we risk running short before the end date. Could we review the remaining planned activities together this week and decide whether to adjust the pace or request a no-cost extension?"
+      }
+    ]
+  },
+  {
+    "dayNumber": 15,
+    "phase": "foundation",
+    "theme": "Cash Basis vs Accrual",
+    "isMilestone": false,
+    "reviewFocus": null,
+    "tongueTwister": {
+      "text": "Fixed fiscal figures fluctuate frequently.",
+      "difficulty": "intermediate",
+      "focusSound": "F cluster",
+      "repetitionTarget": 5
+    },
+    "reading": {
+      "title": "Cash Basis vs Accrual: Why the Difference Matters",
+      "author": null,
+      "sourceType": "original",
+      "content": "Two organizations can have identical bank balances and completely different financial pictures, depending on which accounting method they use to record transactions. Understanding the difference between cash-basis and accrual accounting isn't just a technical distinction — it changes what a financial report is actually telling you.\n\nCash-basis accounting records a transaction when money actually moves: an expense is recorded when it's paid, income when it's received. It's simple and intuitive, and it matches a bank statement closely, which is part of its appeal. Its limitation is that it can create a misleading picture of a specific period: if a large invoice was received in March but not paid until April, cash-basis accounting shows no expense in March at all, even though the obligation existed and the goods or services were already used.\n\nAccrual accounting records a transaction when it's incurred, not when cash moves: that same March invoice is recorded as a March expense, regardless of when it's actually paid. This gives a more accurate picture of a specific period's real financial activity, which matters especially for programme reporting, where a donor wants to know what was actually spent supporting a specific period of activity, not just what happened to clear the bank account during that time.\n\nThe practical implication is that a report can look financially healthy under one method and concerning under the other, for the exact same underlying activity, simply because of timing. This is why understanding which method a report uses — and asking, if it isn't stated — is one of the first things worth checking before interpreting a financial report's numbers at face value.",
+      "estimatedMinutes": 2,
+      "keyConcepts": [
+        "Cash-basis accounting records transactions when money moves; accrual records when they're incurred",
+        "Accrual accounting gives a more accurate picture of a specific period's real activity",
+        "The same underlying activity can look different depending on the accounting method used",
+        "Always check which method a report uses before interpreting its numbers"
+      ]
+    },
+    "reflectionQuestions": [
+      "In your own words, what's the core difference between cash-basis and accrual accounting?",
+      "Why does the reading say accrual accounting matters especially for donor programme reporting?",
+      "Give an example (your own, or adapted from the reading) of how timing could make a report look different under each method.",
+      "What's one question you'd want to ask about which accounting method is used in your own work context?"
+    ],
+    "speedReading": {
+      "passage": "When an organization buys a vehicle, a generator, or office equipment, it's tempting to think of that purchase the same way as buying office supplies: money out, expense recorded, done. Accounting treats these purchases differently, and understanding why clarifies a lot of what shows up — and doesn't show up — on a typical financial report.\n\nA fixed asset is a purchase expected to provide value over multiple years, not just the period in which it was bought. Recording its full cost as a single expense in the month of purchase would make that month look unusually expensive and every following month look artificially cheap, distorting the picture of ongoing operating costs. Depreciation solves this by spreading the asset's cost across its expected useful life — a vehicle expected to last five years might have one-fifth of its cost recorded as an expense each year, rather than the full amount in year one.\n\nThis has a practical effect worth understanding: a programme can have a healthy-looking budget in the year it buys a vehicle in cash, then show a small ongoing depreciation expense in every following year, even though no additional cash left the organization in those later years. Someone reading only the report, without understanding depreciation, might wonder where an expense with no matching cash outflow came from.\n\nThe connection to cost allocation is direct: a shared vehicle used across two different programmes might have its depreciation expense split between them, in proportion to how much each programme actually uses it — the same underlying principle of matching cost to the period and purpose it actually relates to, applied to a purchase that lasts years instead of days.",
+      "wordCount": 279,
+      "comprehensionQuestions": [
+        "What is a fixed asset, according to the passage?",
+        "According to the passage, what problem does depreciation solve?",
+        "How does the passage connect depreciation to cost allocation?"
+      ]
+    },
+    "vocabulary": [
+      {
+        "term": "Cash flow",
+        "category": "Finance & Accounting",
+        "simpleDefinition": "The movement of money in and out of an organization over time.",
+        "professionalDefinition": "The net amount of cash moving into and out of an organization over a specific period, used to assess liquidity and short-term financial health.",
+        "exampleSentence": "A delayed donor payment created a short-term cash flow problem, even though the budget itself was on track.",
+        "workplaceExample": "The finance officer projected cash flow a month ahead to make sure payroll could be covered before the next grant instalment arrived.",
+        "relatedTerms": [
+          "Accounts receivable",
+          "Petty cash"
+        ]
+      },
+      {
+        "term": "Accrual accounting",
+        "category": "Finance & Accounting",
+        "simpleDefinition": "Recording a transaction when it happens, not when the cash actually moves.",
+        "professionalDefinition": "An accounting method that records revenue and expenses when they are earned or incurred, regardless of when the associated cash is received or paid.",
+        "exampleSentence": "Under accrual accounting, the March invoice was recorded as a March expense, even though it wasn't paid until April.",
+        "workplaceExample": "Donor reporting used accrual figures so the report reflected what was actually spent during the reporting period.",
+        "relatedTerms": [
+          "Cash flow"
+        ]
+      },
+      {
+        "term": "Fixed asset",
+        "category": "Finance & Accounting",
+        "simpleDefinition": "A long-term item the organization owns, like a vehicle or equipment.",
+        "professionalDefinition": "A tangible item purchased for long-term use in operations, expected to provide value over multiple accounting periods rather than being consumed immediately.",
+        "exampleSentence": "The new generator was recorded as a fixed asset rather than a one-time expense.",
+        "workplaceExample": "The vehicle fleet was listed as a fixed asset on the organization's balance sheet.",
+        "relatedTerms": [
+          "Depreciation",
+          "Cost allocation"
+        ]
+      },
+      {
+        "term": "Depreciation",
+        "category": "Finance & Accounting",
+        "simpleDefinition": "Spreading the cost of a long-term item over the years it's used, instead of all at once.",
+        "professionalDefinition": "The systematic allocation of a fixed asset's cost as an expense over its estimated useful life, rather than recording the full cost at the time of purchase.",
+        "exampleSentence": "Depreciation on the vehicle was calculated over its expected five-year useful life.",
+        "workplaceExample": "The programme showed a small depreciation expense each year for the vehicle, even in years with no new cash purchases.",
+        "relatedTerms": [
+          "Fixed asset",
+          "Cost allocation"
+        ]
+      },
+      {
+        "term": "Cost allocation",
+        "category": "Finance & Accounting",
+        "simpleDefinition": "Splitting a shared expense fairly across different budgets or projects.",
+        "professionalDefinition": "The process of distributing a shared cost across multiple budget lines, departments, or projects in proportion to their actual use or benefit.",
+        "exampleSentence": "The shared vehicle's depreciation was split through cost allocation based on each programme's actual usage.",
+        "workplaceExample": "Office rent was cost-allocated across three donor-funded projects based on the proportion of staff working on each.",
+        "relatedTerms": [
+          "Depreciation",
+          "Budget variance"
+        ]
+      },
+      {
+        "term": "Petty cash",
+        "category": "Finance & Accounting",
+        "simpleDefinition": "A small amount of cash kept on hand for minor day-to-day expenses.",
+        "professionalDefinition": "A small fund of cash maintained on-site to cover minor, immediate operational expenses that don't warrant a full payment process.",
+        "exampleSentence": "The petty cash float was reconciled weekly against receipts.",
+        "workplaceExample": "Small office supply purchases were paid from petty cash, with a receipt required for every withdrawal.",
+        "relatedTerms": [
+          "Cash flow",
+          "Internal controls"
+        ]
+      }
+    ],
+    "speakingScenarios": [
+      {
+        "situation": "Explain the difference between cash-basis and accrual accounting to a programme manager who only knows the bank balance.",
+        "category": "Finance & Accounting",
+        "framework": "PREP",
+        "guidance": "Audience awareness matters here — plain language first, technical explanation only if asked.",
+        "modelAnswer": "The short answer is: cash-basis shows what's moved through the bank account, accrual shows what's actually been earned or owed, regardless of when the cash moves. That matters because a report based only on cash can hide real obligations — for example, if we received a large invoice in March but didn't pay it until April, cash-basis accounting would show no March expense at all, even though the cost was already incurred. So for accurate programme reporting, especially to donors, we use accrual figures — they reflect what actually happened during the period, not just when money physically moved."
+      },
+      {
+        "situation": "You need to explain to a colleague why petty cash needs to be reconciled and receipted just like any other expense.",
+        "category": "Workplace Communication",
+        "framework": "Rule → Reason → Example",
+        "guidance": "State the rule plainly, explain the reason without sounding like you're reciting policy, and give one concrete example of why it matters.",
+        "modelAnswer": "Petty cash needs a receipt for every use, no exceptions — that's the rule, same as any other expense. The reason is that petty cash is real organizational money, and without receipts there's no audit trail showing what it was actually used for. For example, last quarter an unreceipted petty cash withdrawal held up the whole float reconciliation until we tracked down what it was for — a receipt at the time would have taken seconds."
+      }
+    ]
+  },
+  {
+    "dayNumber": 16,
+    "phase": "foundation",
+    "theme": "From Delivery Truck to Shelf",
+    "isMilestone": false,
+    "reviewFocus": null,
+    "tongueTwister": {
+      "text": "Packers pick, pack, and place promptly.",
+      "difficulty": "intermediate",
+      "focusSound": "P cluster",
+      "repetitionTarget": 5
+    },
+    "reading": {
+      "title": "From Delivery Truck to Shelf: The Put-Away Process",
+      "author": null,
+      "sourceType": "original",
+      "content": "Receiving a delivery is often treated as a single event — the truck arrives, the goods are unloaded, done. In a well-run warehouse, receiving is actually the first of several distinct steps, and skipping or rushing any of them creates problems that surface later, usually at the least convenient moment.\n\nThe first step is verification against a goods received note — a document confirming what was actually delivered, in what condition, and in what quantity, checked against what was ordered. This is the moment to catch a shortfall, a damaged item, or a wrong specification, while the delivery driver or supplier record is still available to resolve it. Catching the same problem a week later, once the goods are already in general storage, is far harder to trace and resolve.\n\nOnce verified, goods move into the put-away process: physically moving items from the receiving area to their assigned storage location, and recording that location in the system. This step is easy to rush under pressure, especially with an urgent delivery, but a poorly recorded put-away creates exactly the kind of system-versus-reality mismatch that makes later stock counts unreliable.\n\nFrom storage, items eventually move out again through a pick list — a list generated for an outgoing order or distribution, telling warehouse staff exactly what to retrieve and from where. A warehouse with accurate put-away records produces fast, accurate picking; a warehouse with sloppy put-away records produces staff searching multiple locations for an item that should have a single, known place.\n\nThe throughline across all three steps is the same principle from earlier readings: the physical action and the recorded action should happen together, not one now and the other 'later, when there's time.'",
+      "estimatedMinutes": 2,
+      "keyConcepts": [
+        "Receiving involves distinct steps: verification, put-away, and later picking",
+        "Verification against a goods received note should happen immediately, while it's resolvable",
+        "Rushing put-away creates system-versus-reality mismatches that surface later",
+        "Accurate put-away records make picking fast; sloppy records make it slow and unreliable"
+      ]
+    },
+    "reflectionQuestions": [
+      "In your own words, what are the three steps described in the reading, from delivery to eventual dispatch?",
+      "Why does the reading say verification should happen immediately, while the delivery driver or supplier record is still available?",
+      "What problem does the reading say a rushed put-away process creates later?",
+      "What question would you want to ask about how receiving is handled where you work?"
+    ],
+    "speedReading": {
+      "passage": "Most inventory principles apply whether an item lasts a week or a decade, but perishable goods — items with expiry dates, temperature sensitivity, or a limited useful life — add constraints that make standard warehouse practices insufficient on their own. Getting this wrong doesn't just create a stock discrepancy; it can mean an item is unusable or unsafe by the time it's needed.\n\nStock aging — tracking how long an item has actually been in storage, not just how much of it there is — becomes essential for perishables in a way it isn't for non-perishable stock. A warehouse might show adequate total quantity of an item while actually holding mostly near-expiry stock, a distinction that a simple quantity count won't reveal but that stock aging tracking will.\n\nCold chain requirements add a further layer for certain items — medical supplies, some food items — that must be kept within a specific temperature range continuously, from the point of manufacture through every storage and transport handoff to the point of use. A single break in that chain, even briefly, can render an item unsafe or ineffective, regardless of how it looks. This makes cold chain management less about storage alone and more about an unbroken sequence of correct handling across multiple organizations and handoffs, each of which has to maintain the same standard.\n\nConsolidation — combining smaller shipments into a larger one for transport efficiency — needs particular care with perishables, since combining items with different expiry dates or temperature requirements into a single shipment can create handling conflicts that a consolidation decision made purely for cost or transport efficiency wouldn't anticipate. The practical rule experienced logistics staff apply: efficiency decisions for perishable stock always get checked against expiry and temperature requirements first, not after.",
+      "wordCount": 295,
+      "comprehensionQuestions": [
+        "According to the passage, what does stock aging reveal that a simple quantity count won't?",
+        "What does the passage say is required to maintain cold chain integrity?",
+        "What 'practical rule' does the passage say experienced logistics staff apply to consolidation decisions involving perishable stock?"
+      ]
+    },
+    "vocabulary": [
+      {
+        "term": "Pick list",
+        "category": "Inventory & Warehouse",
+        "simpleDefinition": "A list telling warehouse staff exactly what to gather for an order.",
+        "professionalDefinition": "A document generated for an outgoing order or distribution, specifying which items, quantities, and storage locations warehouse staff need to retrieve.",
+        "exampleSentence": "The pick list included storage locations for every item, so staff didn't need to search.",
+        "workplaceExample": "An accurate pick list, drawn from correct put-away records, let the team fulfill the urgent order in under twenty minutes.",
+        "relatedTerms": [
+          "Put-away process",
+          "Dispatch"
+        ]
+      },
+      {
+        "term": "Goods received note",
+        "category": "Inventory & Warehouse",
+        "simpleDefinition": "A document confirming what was actually delivered, and in what condition.",
+        "professionalDefinition": "A document recording confirmation of a delivery's contents, quantity, and condition, checked against the original order at the point of receipt.",
+        "exampleSentence": "The goods received note flagged two damaged boxes before the driver left.",
+        "workplaceExample": "Payment wasn't processed until the goods received note matched both the purchase order and the invoice.",
+        "relatedTerms": [
+          "Purchase order"
+        ]
+      },
+      {
+        "term": "Perishable goods handling",
+        "category": "Inventory & Warehouse",
+        "simpleDefinition": "Special storage and handling procedures for items that can expire or spoil.",
+        "professionalDefinition": "Specialized procedures for storing, tracking, and transporting goods with expiry dates or temperature sensitivity, distinct from standard inventory practices.",
+        "exampleSentence": "Perishable goods handling required daily temperature logging, not just weekly stock counts.",
+        "workplaceExample": "The warehouse had a separate perishable goods handling protocol for medical supplies requiring refrigeration.",
+        "relatedTerms": [
+          "Cold chain",
+          "Stock aging"
+        ]
+      },
+      {
+        "term": "Stock aging",
+        "category": "Inventory & Warehouse",
+        "simpleDefinition": "Tracking how long items have been sitting in storage.",
+        "professionalDefinition": "The practice of tracking how long specific inventory items have been held in storage, used to identify near-expiry or slow-moving stock.",
+        "exampleSentence": "Stock aging revealed that most of the remaining quantity was near-expiry, despite the total count looking adequate.",
+        "workplaceExample": "A stock aging report flagged items approaching their expiry date for priority distribution.",
+        "relatedTerms": [
+          "FIFO (First-In, First-Out)",
+          "Perishable goods handling"
+        ]
+      },
+      {
+        "term": "Consolidation (warehousing)",
+        "category": "Inventory & Warehouse",
+        "simpleDefinition": "Combining smaller shipments into one larger shipment for efficiency.",
+        "professionalDefinition": "The practice of combining multiple smaller shipments into a single larger shipment to improve transport efficiency and reduce cost.",
+        "exampleSentence": "Consolidation of the three pending orders into one shipment cut transport costs significantly.",
+        "workplaceExample": "The team avoided consolidating the refrigerated and non-refrigerated items into the same shipment, given the conflicting handling needs.",
+        "relatedTerms": [
+          "Consignment",
+          "Transport modality"
+        ]
+      },
+      {
+        "term": "Put-away process",
+        "category": "Inventory & Warehouse",
+        "simpleDefinition": "Moving received goods to their storage location and recording exactly where they went.",
+        "professionalDefinition": "The process of physically moving verified, received goods to their assigned storage location and recording that location in the inventory system.",
+        "exampleSentence": "A rushed put-away process left several items recorded in the wrong location.",
+        "workplaceExample": "Accurate put-away recording meant the pick list always matched where items were actually stored.",
+        "relatedTerms": [
+          "Goods received note",
+          "Pick list"
+        ]
+      }
+    ],
+    "speakingScenarios": [
+      {
+        "situation": "A new warehouse assistant asks you to explain what happens to a delivery from the moment the truck arrives.",
+        "category": "Inventory & Warehouse Management",
+        "framework": "PREP",
+        "guidance": "Structure the explanation as a clear sequence of three steps, with the reasoning behind each.",
+        "modelAnswer": "From the moment a truck arrives, there are really three steps: verify, store, then eventually pick. First, we check the delivery against the goods received note, confirming quantity and condition before the driver leaves — that's our chance to catch any problem while it's still easy to resolve. Then we move the items to their assigned storage location and record exactly where they went, which is the put-away step. For example, if that recording gets rushed or skipped, we end up with stock that's physically in the building but the system doesn't know where — which makes later picking slow and stock counts unreliable. So the short version is: verify immediately, record accurately, and everything downstream depends on getting those two right."
+      },
+      {
+        "situation": "An urgent order needs to be picked and dispatched quickly, and a colleague is pressuring you to skip the usual verification step.",
+        "category": "Workplace Communication",
+        "framework": "Acknowledge → Constraint → Alternative",
+        "guidance": "Take the urgency seriously without abandoning the control that protects accuracy. Offer a faster path that doesn't skip the step entirely.",
+        "modelAnswer": "I understand the urgency, and I want this out as fast as you do. The constraint is that skipping verification is exactly how we end up sending the wrong item or quantity, which would actually cost us more time than it saves. What I can do is verify this specific order first, ahead of everything else in the queue — I can have it confirmed and moving within ten minutes."
+      }
+    ]
+  },
+  {
+    "dayNumber": 17,
+    "phase": "foundation",
+    "theme": "Segregation of Duties",
+    "isMilestone": false,
+    "reviewFocus": null,
+    "tongueTwister": {
+      "text": "Segregated staff safeguard sensitive systems.",
+      "difficulty": "intermediate",
+      "focusSound": "S / SEG cluster",
+      "repetitionTarget": 4
+    },
+    "reading": {
+      "title": "Why One Person Shouldn't Do Everything: Segregation of Duties",
+      "author": null,
+      "sourceType": "original",
+      "content": "A single, well-intentioned person handling every step of a financial transaction — requesting a purchase, approving it, making the payment, and recording it — might do everything correctly every time. Good internal controls don't assume dishonesty; they assume that even honest, careful people make mistakes, and that concentrating every step of a transaction in one person removes the natural check that catching those mistakes depends on.\n\nSegregation of duties is the practice of splitting these steps among different people, so that no single individual controls a transaction from start to finish. The person who requests a purchase shouldn't be the same person who approves it; the person who approves a payment shouldn't be the same person who reconciles the bank account afterward. This isn't primarily about catching deliberate fraud, though it does that too — it's about creating a natural point where a second person's attention catches an honest error before it becomes a bigger problem.\n\nAuditors reviewing an organization's controls look specifically for segregation of duties, and its absence is one of the most common red flags in a review — not necessarily because something went wrong, but because the structural protection against something going wrong isn't there. A small organization with limited staff sometimes can't achieve full segregation in the ideal sense; in that case, compensating controls matter — extra review steps, more frequent reconciliation, oversight from someone outside the immediate team — to partially replace what a larger staff would achieve through role separation alone.\n\nSampling — an auditor reviewing a representative subset of transactions rather than every single one — depends on this structural confidence: if segregation of duties and other controls are solid, a sample gives a reliable picture of the whole. Without it, a clean sample proves much less than it appears to.",
+      "estimatedMinutes": 2,
+      "keyConcepts": [
+        "Segregation of duties assumes honest mistakes, not just dishonesty",
+        "No single person should control a transaction from request to reconciliation",
+        "Its absence is a common audit red flag, even without evidence of wrongdoing",
+        "Small organizations can use compensating controls where full segregation isn't possible"
+      ]
+    },
+    "reflectionQuestions": [
+      "In your own words, why does the reading say segregation of duties isn't primarily about catching deliberate fraud?",
+      "What is a 'compensating control,' and when does the reading say it matters?",
+      "How does the reading connect segregation of duties to audit sampling?",
+      "Think about a process in your own work — is any single person controlling it from start to finish? What would segregation look like there?"
+    ],
+    "speedReading": {
+      "passage": "Auditors and reviewers don't approach a set of financial records looking for a specific known problem — they're looking for patterns that don't fit an otherwise ordinary picture, often called red flags, which signal that a closer look is warranted, not that something is necessarily wrong.\n\nSome red flags are structural, like the absence of segregation of duties discussed elsewhere, or an approval matrix that isn't actually being followed in practice — payments approved by someone below the required authority level for that value, for instance. Others are pattern-based: an unusually high number of transactions that fall just under an approval threshold, which can (though doesn't always) suggest deliberate structuring to avoid a required review step. A supplier that's paid unusually quickly compared to others, or one whose invoices are approved by only one person consistently, can also draw attention, even without any other evidence of a problem.\n\nIt's worth being precise about what a red flag actually means: it's an indicator that something merits explanation, not a finding of wrongdoing. Most red flags, when investigated, have an entirely reasonable explanation — an unusual pattern in a particular month might reflect a genuine one-off circumstance, not misconduct. The purpose of flagging it isn't accusation; it's ensuring that unusual patterns get looked at and explained, rather than passing unnoticed simply because nothing was obviously wrong on the surface.\n\nFor someone preparing for a review, the practical implication is straightforward: if you know a transaction or pattern in your own records looks unusual for a legitimate reason, it's far better to document that reason proactively than to wait for a reviewer to raise it as a question — a red flag with a ready, documented explanation resolves quickly; one that catches a reviewer's questions with hesitation resolves much more slowly, on the strength of that hesitation alone, whether or not anything was ever actually wrong.",
+      "wordCount": 313,
+      "comprehensionQuestions": [
+        "According to the passage, what does a red flag actually indicate — proof of wrongdoing, or something else?",
+        "Give two examples of red flags mentioned in the passage.",
+        "What practical advice does the passage give for someone preparing for a review who knows an unusual pattern exists for a legitimate reason?"
+      ]
+    },
+    "vocabulary": [
+      {
+        "term": "Segregation of duties",
+        "category": "Audit & Compliance",
+        "simpleDefinition": "Splitting responsibilities among different people so no one person controls a whole transaction.",
+        "professionalDefinition": "An internal control practice ensuring that no single individual has control over all phases of a transaction, reducing the risk of undetected error or fraud.",
+        "exampleSentence": "Segregation of duties meant the requester and the approver of the purchase were always different people.",
+        "workplaceExample": "The person who reconciled the bank account was deliberately not the same person who approved payments.",
+        "relatedTerms": [
+          "Internal controls",
+          "Approval matrix"
+        ]
+      },
+      {
+        "term": "Sampling (audit)",
+        "category": "Audit & Compliance",
+        "simpleDefinition": "Reviewing a representative subset of transactions instead of every single one.",
+        "professionalDefinition": "An audit technique involving the review of a representative subset of transactions to draw conclusions about the reliability of the full population of records.",
+        "exampleSentence": "The auditor's sampling approach reviewed twenty transactions out of several hundred for the quarter.",
+        "workplaceExample": "Because internal controls were solid, the sampling review gave the auditor confidence in the full set of records.",
+        "relatedTerms": [
+          "Audit trail",
+          "Segregation of duties"
+        ]
+      },
+      {
+        "term": "Red flag (audit)",
+        "category": "Audit & Compliance",
+        "simpleDefinition": "A warning sign suggesting something merits a closer look, not proof of a problem.",
+        "professionalDefinition": "An indicator or pattern in financial records that suggests a closer review is warranted, without itself constituting evidence of wrongdoing.",
+        "exampleSentence": "The cluster of payments just under the approval threshold was flagged as a red flag for review.",
+        "workplaceExample": "The finance team proactively documented the reason behind an unusual red flag before the auditor asked about it.",
+        "relatedTerms": [
+          "Non-compliance",
+          "Segregation of duties"
+        ]
+      },
+      {
+        "term": "Reconciliation statement",
+        "category": "Audit & Compliance",
+        "simpleDefinition": "A formal document showing that two sets of records have been checked and matched.",
+        "professionalDefinition": "A formal document demonstrating that two independent sets of financial records have been compared and any discrepancies identified and resolved.",
+        "exampleSentence": "The monthly reconciliation statement confirmed the bank balance matched the accounting records exactly.",
+        "workplaceExample": "Every reconciliation statement was signed off by someone other than the person who prepared it.",
+        "relatedTerms": [
+          "Bank reconciliation"
+        ]
+      },
+      {
+        "term": "Approval matrix",
+        "category": "Audit & Compliance",
+        "simpleDefinition": "A defined structure of who is allowed to approve what value of transaction.",
+        "professionalDefinition": "A documented structure defining which roles or individuals are authorized to approve transactions at specific value thresholds.",
+        "exampleSentence": "The approval matrix required country director sign-off for any payment above the set threshold.",
+        "workplaceExample": "A payment approved outside the approval matrix was flagged immediately during the monthly review.",
+        "relatedTerms": [
+          "Segregation of duties",
+          "Procurement threshold"
+        ]
+      },
+      {
+        "term": "Non-compliance",
+        "category": "Audit & Compliance",
+        "simpleDefinition": "Failing to follow a required rule, policy, or standard.",
+        "professionalDefinition": "A failure to adhere to established laws, regulations, donor requirements, or internal policies governing an activity or transaction.",
+        "exampleSentence": "The review identified one instance of non-compliance with the tendering threshold policy.",
+        "workplaceExample": "A corrective action plan was created to address the non-compliance identified in the audit.",
+        "relatedTerms": [
+          "Compliance",
+          "Red flag (audit)"
+        ]
+      }
+    ],
+    "speakingScenarios": [
+      {
+        "situation": "Explain to a new colleague why they can't both request and approve their own purchase.",
+        "category": "Audit & Compliance",
+        "framework": "PREP",
+        "guidance": "Frame this as a structural policy, not a personal judgment — it protects the colleague as much as the organization.",
+        "modelAnswer": "The reason you can't approve your own request is segregation of duties — it's a standard control, not a comment on your judgment. The idea is that even careful, honest people can make mistakes, and having a second person review a transaction is what catches those mistakes before they become bigger problems. For example, if you're just too close to a request to notice a missing detail, a second reviewer often catches exactly that. So it's not about trust — it's a structural check that protects both the organization and you personally if a transaction is ever questioned later."
+      },
+      {
+        "situation": "A reviewer flags an unusual pattern in your team's expense approvals, and you need to respond professionally.",
+        "category": "Workplace Communication",
+        "framework": "Observation → Question → Suggested Next Step",
+        "guidance": "Respond calmly and specifically — ask for the exact transactions in question rather than reacting defensively to a general flag.",
+        "modelAnswer": "Thank you for flagging that — I want to understand it fully before responding. Could you point me to the specific transactions that triggered the flag? If it's the cluster of approvals just under the threshold you mentioned, I believe that's because we had several genuinely separate small purchases in the same week, but I'd like to confirm the dates against our records before I say that for certain, and get back to you by tomorrow."
+      }
+    ]
+  },
+  {
+    "dayNumber": 18,
+    "phase": "foundation",
+    "theme": "Running a Meeting That Works",
+    "isMilestone": false,
+    "reviewFocus": null,
+    "tongueTwister": {
+      "text": "Meeting minutes must mention major matters.",
+      "difficulty": "intermediate",
+      "focusSound": "M repetition",
+      "repetitionTarget": 5
+    },
+    "reading": {
+      "title": "Running (and Surviving) a Meeting That Actually Works",
+      "author": null,
+      "sourceType": "original",
+      "content": "Meetings have a bad reputation, often deserved, but the actual problem is rarely the meeting format itself — it's usually the absence of a small number of specific practices that separate a productive meeting from a frustrating one, regardless of the topic being discussed.\n\nFacilitation — actively guiding a discussion rather than just attending it — is one of the most underrated of these practices. A facilitator's job isn't to dominate the conversation; it's to keep it moving toward a decision or outcome, redirect it when it drifts, and make sure quieter participants with relevant input actually get space to contribute. A meeting without active facilitation often defaults to whoever speaks loudest or first, which isn't the same as whoever has the most useful information.\n\nGroupthink is a specific risk that good facilitation helps guard against: a group's tendency to converge on agreement too quickly, especially when a senior person states an opinion early, discouraging others from raising a different view even when they have real concerns. Deliberately inviting a devil's advocate perspective — asking someone to argue the opposing case, even if they don't personally hold it — is a simple, low-cost way to interrupt this pattern before a weak decision gets locked in by unchallenged consensus.\n\nMeeting minutes — a written record of what was discussed and decided — matter less for the meeting itself and more for what happens afterward: without them, a handover to someone who missed the meeting, or a later question about what was actually agreed, has nothing reliable to draw on. Minutes don't need to capture every sentence spoken; they need to capture decisions, owners, and deadlines clearly enough that someone who wasn't in the room can act on them correctly.",
+      "estimatedMinutes": 2,
+      "keyConcepts": [
+        "Facilitation actively guides a discussion rather than letting the loudest voice dominate",
+        "Groupthink risks agreement forming too fast, especially after a senior person speaks early",
+        "A deliberate devil's advocate can interrupt premature consensus",
+        "Meeting minutes matter most for what happens after the meeting, not during it"
+      ]
+    },
+    "reflectionQuestions": [
+      "In your own words, what does 'facilitation' mean in a meeting, and why does the reading say it matters?",
+      "Explain groupthink as if to someone who has never heard the term.",
+      "Why does the reading say meeting minutes matter more for what happens after the meeting than during it?",
+      "Think of a recent meeting — was there active facilitation? What difference might it have made if there wasn't?"
+    ],
+    "speedReading": {
+      "passage": "A handover — transferring responsibility, information, or an ongoing task from one person or team to another — sounds like a simple transfer of information, but the details that actually get lost in a poor handover are rarely the ones anyone expected to lose.\n\nFormal handover documents typically capture what a task is and its current status, which is useful but incomplete. What they often miss is context that lives only in the outgoing person's head: why a particular decision was made, which stakeholder is sensitive about which issue, what was already tried and didn't work, and what's likely to go wrong next based on the pattern so far. This kind of tacit knowledge rarely makes it into a written document unless someone deliberately asks for it, because the person handing over usually doesn't realize it's not obvious to someone else.\n\nCross-functional teams — groups drawing members from different departments, like finance, logistics, and programme staff working together on a shared initiative — face a particular handover risk: a handover within one function (logistics to logistics) preserves function-specific context reasonably well, but a handover that also crosses functional lines can lose the cross-functional relationships and informal agreements that made the original arrangement work, if those aren't explicitly documented and introduced to the incoming person.\n\nThe most reliable handovers combine a written document with a direct conversation, specifically because the conversation is where tacit knowledge — the 'why,' not just the 'what' — actually gets transferred. A handover that's purely written, however thorough, tends to transfer facts efficiently but context poorly; a handover that's purely verbal, however thorough, leaves nothing for the incoming person to refer back to once questions inevitably arise later.",
+      "wordCount": 282,
+      "comprehensionQuestions": [
+        "According to the passage, what kind of information do formal handover documents often miss?",
+        "What particular handover risk does the passage describe for cross-functional teams?",
+        "Why does the passage recommend combining a written document with a direct conversation for a handover?"
+      ]
+    },
+    "vocabulary": [
+      {
+        "term": "Minutes (meeting minutes)",
+        "category": "Workplace Communication",
+        "simpleDefinition": "The written record of what was discussed and decided in a meeting.",
+        "professionalDefinition": "A written record of a meeting's discussions, decisions, and assigned actions, distributed to ensure a shared and lasting reference point.",
+        "exampleSentence": "The minutes clearly listed each decision along with who owned the follow-up.",
+        "workplaceExample": "A colleague who missed the meeting relied entirely on the minutes to understand what had been agreed.",
+        "relatedTerms": [
+          "Action item",
+          "Handover"
+        ]
+      },
+      {
+        "term": "Facilitation",
+        "category": "Workplace Communication",
+        "simpleDefinition": "Actively guiding a discussion to keep it productive, rather than just attending it.",
+        "professionalDefinition": "The practice of actively guiding a group discussion toward a productive outcome, managing participation and redirecting drift without dominating the conversation.",
+        "exampleSentence": "Good facilitation kept the meeting focused on the three items on the agenda.",
+        "workplaceExample": "The facilitator noticed a quieter team member had relevant input and directly invited them to share it.",
+        "relatedTerms": [
+          "Consensus",
+          "Groupthink"
+        ]
+      },
+      {
+        "term": "Groupthink",
+        "category": "Workplace Communication",
+        "simpleDefinition": "A group agreeing too quickly without really considering other views.",
+        "professionalDefinition": "A phenomenon in which a group converges on agreement prematurely, suppressing dissenting views in favor of apparent consensus, often after an influential member speaks early.",
+        "exampleSentence": "Groupthink nearly led the team to approve a risky plan without proper scrutiny.",
+        "workplaceExample": "Recognizing groupthink forming, the facilitator deliberately asked for one more round of concerns before finalizing the decision.",
+        "relatedTerms": [
+          "Devil's advocate",
+          "Consensus"
+        ]
+      },
+      {
+        "term": "Devil's advocate",
+        "category": "Workplace Communication",
+        "simpleDefinition": "Someone who intentionally argues the opposing view to test an idea, even if they don't personally believe it.",
+        "professionalDefinition": "A role in which a person deliberately argues an opposing viewpoint to stress-test a proposal and surface overlooked risks or objections.",
+        "exampleSentence": "Playing devil's advocate, she asked what would happen if the supplier couldn't meet the deadline.",
+        "workplaceExample": "The team assigned someone to play devil's advocate before finalizing any major procurement decision.",
+        "relatedTerms": [
+          "Groupthink"
+        ]
+      },
+      {
+        "term": "Handover",
+        "category": "Workplace Communication",
+        "simpleDefinition": "Transferring responsibility or information from one person or team to another.",
+        "professionalDefinition": "The process of transferring responsibility, information, or an ongoing task from one individual or team to another, ideally combining documentation with direct conversation.",
+        "exampleSentence": "The handover included both a written document and a call to cover the context that wasn't written down.",
+        "workplaceExample": "A rushed handover between logistics officers led to a missed follow-up with a key supplier.",
+        "relatedTerms": [
+          "Minutes (meeting minutes)",
+          "Cross-functional team"
+        ]
+      },
+      {
+        "term": "Cross-functional team",
+        "category": "Workplace Communication",
+        "simpleDefinition": "A group made up of people from different departments working toward a shared goal.",
+        "professionalDefinition": "A team composed of members from different functional departments — such as finance, logistics, and programmes — collaborating toward a shared objective.",
+        "exampleSentence": "The cross-functional team met weekly to coordinate the distribution timeline across departments.",
+        "workplaceExample": "A cross-functional team handover needed to explicitly document informal agreements that had built up between departments over time.",
+        "relatedTerms": [
+          "Handover",
+          "Stakeholder alignment"
+        ]
+      }
+    ],
+    "speakingScenarios": [
+      {
+        "situation": "You're asked to facilitate a cross-functional meeting and summarize the key decisions at the end.",
+        "category": "Workplace Communication",
+        "framework": "3-2-1",
+        "guidance": "Close a meeting you're facilitating with a tight summary — decisions, open items, and one thing to resolve before ending.",
+        "modelAnswer": "To summarize: three decisions were made today — we're moving forward with the revised delivery schedule, finance will issue the updated budget line by Friday, and procurement will re-tender the transport contract next month. Two open items remain — we still need to confirm the field site's storage capacity, and we haven't decided who owns the donor communication on this change. One thing to close on before we end: can we agree who owns that donor communication right now, rather than leaving it open?"
+      },
+      {
+        "situation": "You notice the team is agreeing too quickly with a risky proposal in a meeting, without much discussion.",
+        "category": "Workplace Communication",
+        "framework": "Acknowledge → Clarify → Propose",
+        "guidance": "Interrupt groupthink respectfully by naming what you're doing, rather than simply disagreeing.",
+        "modelAnswer": "Before we finalize this, can I play devil's advocate for a moment? I want to make sure we've actually stress-tested it, not just agreed quickly because it sounds reasonable. Specifically, what happens if the supplier we're relying on for this can't meet the timeline — do we have a fallback? I'd propose we spend five more minutes on that specific risk before we commit."
+      }
+    ]
+  },
+  {
+    "dayNumber": 19,
+    "phase": "foundation",
+    "theme": "Negotiating Without Damaging the Relationship",
+    "isMilestone": false,
+    "reviewFocus": null,
+    "tongueTwister": {
+      "text": "Vendors value verified, valid vouchers.",
+      "difficulty": "intermediate",
+      "focusSound": "V repetition",
+      "repetitionTarget": 5
+    },
+    "reading": {
+      "title": "Negotiating Without Damaging the Relationship",
+      "author": null,
+      "sourceType": "original",
+      "content": "Negotiation is often imagined as a contest — one side gains, the other concedes — which makes sense for a single, one-off transaction but describes ongoing supplier and partner relationships poorly. Most procurement and logistics negotiations happen with parties an organization will work with again, which changes what a 'good outcome' actually means.\n\nLeverage — a factor that gives one party an advantage — genuinely matters in negotiation, and pretending otherwise is naive. Being the larger buyer, having alternative suppliers available, or negotiating during a period when the supplier needs the business more than usual are all real forms of leverage. But leverage used purely to extract maximum short-term advantage, especially in a relationship that will continue, often costs more in the following months than it saved in the negotiation itself — a supplier who feels a deal was purely one-sided has less flexibility, and less goodwill, the next time genuine urgency requires it.\n\nA win-win outcome doesn't mean splitting every difference evenly; it means identifying what each side actually values most, which often aren't the same thing. A supplier might value payment speed more than price, or a longer contract term more than a marginally higher unit cost. An organization might value delivery reliability more than the lowest possible price. Trading on these different priorities — rather than negotiating only on the single dimension both sides are watching most closely, usually price — often produces an outcome that costs the buyer less while genuinely benefiting the supplier more, compared to a negotiation fought only over one number.\n\nDue diligence — checking a partner's track record, financial stability, and reputation before entering an agreement — is what makes it possible to negotiate with real information about what a supplier actually needs and can deliver, rather than negotiating blind.",
+      "estimatedMinutes": 2,
+      "keyConcepts": [
+        "Ongoing supplier relationships change what a 'good' negotiation outcome means",
+        "Leverage used to extract maximum short-term advantage can cost more later",
+        "A win-win outcome trades on different priorities, not an even split",
+        "Due diligence provides the real information negotiation on priorities depends on"
+      ]
+    },
+    "reflectionQuestions": [
+      "In your own words, why does the reading say leverage used for maximum short-term advantage can cost more later in an ongoing relationship?",
+      "Explain what a 'win-win outcome' means in negotiation, according to the reading — and what it does NOT mean.",
+      "Why does the reading connect due diligence to the ability to negotiate on priorities rather than just price?",
+      "Think of a negotiation you've had or observed at work — what did each side actually value most, beyond price?"
+    ],
+    "speedReading": {
+      "passage": "Every ongoing business relationship accumulates a track record, and sometimes that track record includes a missed commitment, a quality problem, or a communication breakdown that leaves the relationship with what's sometimes called a trust deficit — a state where the other party's word is met with more skepticism than it would be otherwise, regardless of whether the current interaction is actually a problem.\n\nA trust deficit doesn't resolve itself through time alone; it resolves through a specific pattern of behavior, repeated consistently, that directly addresses whatever created it. If the deficit came from missed deadlines, the repair isn't a single on-time delivery — it's a sustained pattern of reliability substantial enough to outweigh the earlier pattern that created the skepticism in the first place. This takes longer than either party usually wants, and attempting to rush it with reassurance alone, without the pattern of behavior to back it up, usually deepens the skepticism rather than resolving it.\n\nVendor lock-in complicates this further: an organization that's dependent on a single supplier, for practical or contractual reasons, can find itself managing a trust deficit without the leverage to simply switch to an alternative — which is part of why due diligence and maintaining at least the option of alternative suppliers matters even in relationships that are currently working well.\n\nThe practical approach experienced procurement and logistics staff take with a trust deficit is unglamorous but effective: document commitments and outcomes explicitly, on both sides, rather than relying on memory or goodwill; over-communicate around anything that could become another missed commitment; and treat every small, kept promise as part of a deliberate rebuilding process, not just business as usual. Trust rebuilt this way tends to be more durable than trust that was never tested in the first place.",
+      "wordCount": 295,
+      "comprehensionQuestions": [
+        "According to the passage, what actually resolves a trust deficit — time alone, or something else?",
+        "What complication does the passage say vendor lock-in adds to managing a trust deficit?",
+        "What three practical steps does the passage describe for rebuilding trust in a supplier relationship?"
+      ]
+    },
+    "vocabulary": [
+      {
+        "term": "Negotiation",
+        "category": "Stakeholder & Supplier Relations",
+        "simpleDefinition": "A discussion aimed at reaching an agreement acceptable to both sides.",
+        "professionalDefinition": "A structured discussion between parties aimed at reaching a mutually acceptable agreement on terms, price, or conditions.",
+        "exampleSentence": "The negotiation focused on payment terms rather than unit price.",
+        "workplaceExample": "Before entering the negotiation, the team identified what they valued most and what they were willing to trade.",
+        "relatedTerms": [
+          "Leverage (negotiation)",
+          "Win-win outcome"
+        ]
+      },
+      {
+        "term": "Leverage (negotiation)",
+        "category": "Stakeholder & Supplier Relations",
+        "simpleDefinition": "A factor that gives one side an advantage in a negotiation.",
+        "professionalDefinition": "A factor — such as buying power, alternative options, or timing — that provides one party with an advantage in a negotiation.",
+        "exampleSentence": "Having a second qualified supplier available gave the buyer real leverage in the price negotiation.",
+        "workplaceExample": "The team used its leverage carefully, aware that overusing it could damage a relationship they'd need again.",
+        "relatedTerms": [
+          "Negotiation",
+          "Win-win outcome"
+        ]
+      },
+      {
+        "term": "Win-win outcome",
+        "category": "Stakeholder & Supplier Relations",
+        "simpleDefinition": "An agreement where both sides gain something they actually value.",
+        "professionalDefinition": "A negotiated outcome in which both parties gain value by trading on their differing priorities, rather than splitting a single dimension evenly.",
+        "exampleSentence": "Trading a longer contract term for better payment terms produced a genuine win-win outcome.",
+        "workplaceExample": "The supplier valued contract stability more than price, which let the buyer secure a win-win outcome without paying more.",
+        "relatedTerms": [
+          "Negotiation",
+          "Leverage (negotiation)"
+        ]
+      },
+      {
+        "term": "Vendor lock-in",
+        "category": "Stakeholder & Supplier Relations",
+        "simpleDefinition": "Being dependent on one supplier, making it hard or costly to switch.",
+        "professionalDefinition": "A state of dependency on a single supplier, arising from practical, financial, or contractual constraints, that limits an organization's ability to switch providers.",
+        "exampleSentence": "Vendor lock-in with the sole regional supplier limited the team's negotiating leverage.",
+        "workplaceExample": "To avoid vendor lock-in, the team maintained a relationship with a backup supplier even while using the primary one.",
+        "relatedTerms": [
+          "Due diligence",
+          "Leverage (negotiation)"
+        ]
+      },
+      {
+        "term": "Due diligence",
+        "category": "Stakeholder & Supplier Relations",
+        "simpleDefinition": "Carefully checking a partner's track record and reliability before entering an agreement.",
+        "professionalDefinition": "A thorough investigation of a potential partner's track record, financial stability, and reputation conducted before entering into an agreement.",
+        "exampleSentence": "Due diligence on the new supplier revealed a strong on-time delivery history.",
+        "workplaceExample": "The procurement team ran due diligence checks before adding a new supplier to the framework agreement.",
+        "relatedTerms": [
+          "Vendor lock-in",
+          "Supplier evaluation"
+        ]
+      },
+      {
+        "term": "Trust deficit",
+        "category": "Stakeholder & Supplier Relations",
+        "simpleDefinition": "A lack of confidence between parties, often from past unmet commitments.",
+        "professionalDefinition": "A state of reduced confidence between parties in a relationship, typically resulting from past missed commitments or unresolved issues.",
+        "exampleSentence": "The trust deficit following the missed delivery meant every future date was double-checked.",
+        "workplaceExample": "Rebuilding from the trust deficit required several consecutive on-time deliveries, not just a single one.",
+        "relatedTerms": [
+          "Relationship management",
+          "Goodwill"
+        ]
+      }
+    ],
+    "speakingScenarios": [
+      {
+        "situation": "Negotiate improved payment terms with a supplier without damaging the relationship.",
+        "category": "Stakeholder & Supplier Relations",
+        "framework": "PREP",
+        "guidance": "Frame the negotiation around trading different priorities, not simply asking for a concession.",
+        "modelAnswer": "We'd like to move to 30-day payment terms instead of the current 14 days, and I think there's a way to make this work for both of us. The reason is that it would improve our cash flow planning significantly on our end. In exchange, we'd be glad to commit to a longer contract term with you, which gives you more predictable business over the year. So rather than treating this as us asking for a concession, I'd frame it as trading something we value — payment flexibility — for something you'd likely value — contract stability."
+      },
+      {
+        "situation": "A supplier relationship has a trust deficit after a missed delivery, and you need to address it directly but constructively.",
+        "category": "Workplace Communication",
+        "framework": "Acknowledge → Constraint → Alternative",
+        "guidance": "Be direct about the impact without relitigating blame, and propose a concrete step that rebuilds confidence.",
+        "modelAnswer": "I want to be straightforward: the missed delivery last month affected our confidence in the timeline for this order. I understand there was a genuine supply issue, and I'm not trying to relitigate it. What would help rebuild confidence is a written delivery confirmation a week ahead of the date, rather than us finding out only close to the deadline — would that work on your end?"
+      }
+    ]
+  },
+  {
+    "dayNumber": 20,
+    "phase": "foundation",
+    "theme": "Milestone 2: Building Momentum",
+    "isMilestone": true,
+    "reviewFocus": "Today's vocabulary review revisits terms from Days 11–19 via the spaced-repetition queue, alongside 3 new terms tied to this milestone's reflective theme.",
+    "tongueTwister": {
+      "text": "Steady speakers structure spontaneous statements smoothly.",
+      "difficulty": "intermediate",
+      "focusSound": "S cluster, longer sentence",
+      "repetitionTarget": 4
+    },
+    "reading": {
+      "title": "Twenty Days In: Building Momentum",
+      "author": null,
+      "sourceType": "original",
+      "content": "Twenty days is enough time for a pattern to start feeling less like an effort and more like a routine — which is exactly the point at which it's worth checking whether that routine is actually still building skill, or has quietly become comfortable repetition without much further growth.\n\nA useful habit at this stage is honest self-assessment: not a vague sense of 'I think I'm getting better,' but a specific comparison against the first block. Can you now explain a budget variance or a procurement delay in fewer sentences than you needed on Day 5 or Day 2? Do you notice a filler word closer to the moment you say it, rather than only in review? Are you reaching for the PREP structure automatically in a meeting, or still consciously remembering to use it? These specific comparisons reveal real progress in a way that a general impression can't.\n\nIt's also worth naming what usually causes a communication gap — a mismatch between what someone intended to say and what a listener actually understood — because the last twenty days of practice have mostly targeted the sending side of that gap: organizing your own thoughts clearly before speaking. The receiving side matters just as much, and it's where active listening and paraphrasing, introduced in this block, start to matter more directly.\n\nMomentum in a daily practice like this one isn't really about motivation, which fluctuates day to day regardless of progress. It's about the routine itself carrying you through the days motivation is lower — which is precisely why a consistent structure, at the same time, in the same order, matters more than any single highly motivated session. The next block asks more of that structure: longer explanations, more ambiguous situations, and frameworks beyond PREP.",
+      "estimatedMinutes": 2,
+      "keyConcepts": [
+        "At twenty days, check whether the routine is still building skill or has become comfortable repetition",
+        "Specific comparisons against earlier days reveal real progress better than a general impression",
+        "A communication gap has a sending side and a receiving side — both matter",
+        "Consistent structure, not motivation, is what carries a daily practice through low-motivation days"
+      ]
+    },
+    "reflectionQuestions": [
+      "Pick one specific skill from Days 11–19 and compare it honestly to how you handled the same kind of task on Days 1–10 — what's actually different?",
+      "Which vocabulary term from this block do you want to keep practicing?",
+      "The reading distinguishes the 'sending side' and 'receiving side' of a communication gap — which do you think needs more of your attention right now?",
+      "What's one adjustment you'll make to your practice routine heading into the next block?"
+    ],
+    "speedReading": {
+      "passage": "Anyone maintaining a daily practice eventually has a day where motivation is genuinely low — not from laziness, but from ordinary fluctuations in energy, mood, and competing demands that affect everyone. Programmes and habits that depend on consistently high motivation to function are, by this logic, poorly designed, because they're built around a variable that was never going to stay constant.\n\nThe more reliable alternative is structure: a practice that requires less decision-making and less motivation to execute, because most of the decisions were already made in advance. A routine that happens at a fixed time, in a fixed order, with a fixed minimum scope, needs only the decision to start — not a fresh decision about whether, when, and how much, made anew under whatever motivation happens to be available that day.\n\nThis is part of why daily short sessions tend to outperform occasional long ones for skill-building, beyond the habit-consolidation reasons covered earlier: a short, fixed-structure session is achievable even on a low-motivation day, keeping the pattern unbroken, while a long session that depends on feeling motivated enough to start is far more likely to simply get skipped on exactly the days it would have mattered most for consistency.\n\nNone of this means motivation is irrelevant — a highly motivated day is still a good day to push further than the minimum structure requires. But treating motivation as a bonus on top of a structure that runs regardless, rather than as the thing the structure depends on, is what allows a twenty-day pattern to plausibly become a ninety-day one. The days that feel hardest to start are usually not evidence the practice isn't working — they're simply the days the structure exists to carry you through.",
+      "wordCount": 288,
+      "comprehensionQuestions": [
+        "According to the passage, why are programmes that depend on consistently high motivation poorly designed?",
+        "What does the passage say makes a fixed-structure routine achievable even on a low-motivation day?",
+        "According to the passage, what should the days that feel hardest to start be understood as?"
+      ]
+    },
+    "vocabulary": [
+      {
+        "term": "Self-assessment",
+        "category": "Workplace Communication",
+        "simpleDefinition": "Honestly evaluating your own performance or skill.",
+        "professionalDefinition": "The practice of evaluating one's own performance, skill, or progress against specific, comparable criteria rather than general impression.",
+        "exampleSentence": "Her honest self-assessment showed real progress in structuring answers, but little change in reducing filler words.",
+        "workplaceExample": "A specific self-assessment — comparing this month's report to last month's — revealed a genuine improvement in conciseness.",
+        "relatedTerms": [
+          "Professional presence",
+          "Concise reporting"
+        ]
+      },
+      {
+        "term": "Communication gap",
+        "category": "Workplace Communication",
+        "simpleDefinition": "A mismatch between what someone meant to say and what the listener understood.",
+        "professionalDefinition": "A discrepancy between a speaker's intended message and a listener's actual understanding of it, arising from either the sending or receiving side of the exchange.",
+        "exampleSentence": "The communication gap wasn't about unclear instructions — it was that the listener assumed a different deadline.",
+        "workplaceExample": "Paraphrasing back an instruction closed a communication gap before it caused a missed deadline.",
+        "relatedTerms": [
+          "Paraphrasing",
+          "Active listening"
+        ]
+      },
+      {
+        "term": "Momentum (habit-building)",
+        "category": "Workplace Communication",
+        "simpleDefinition": "The continued progress built from consistent daily practice, rather than motivation alone.",
+        "professionalDefinition": "The sustained progress generated by consistent, structured repetition of a practice over time, distinct from and more reliable than day-to-day motivation.",
+        "exampleSentence": "The programme's momentum came from a fixed daily structure, not from staying highly motivated every single day.",
+        "workplaceExample": "Even on a low-energy day, following the same fixed routine kept the twenty-day momentum from breaking.",
+        "relatedTerms": [
+          "Follow-through"
+        ]
+      }
+    ],
+    "speakingScenarios": [
+      {
+        "situation": "Summarize what's changed in your communication over the last twenty days to a mentor, in under 90 seconds.",
+        "category": "Interview",
+        "framework": "PREP",
+        "guidance": "Use a specific, comparable example rather than a general claim of improvement.",
+        "modelAnswer": "Over the last twenty days, I've moved from consciously applying the PREP framework to using it closer to automatically, especially in workplace scenarios like explaining delays or budget variances. That matters because the goal was never just knowing the framework — it was making it available under real pressure, without having to think about the structure itself. A clear example is comparing how I'd explain a procurement delay now versus on Day 2 — it's noticeably shorter and leads with the cause immediately, rather than working up to it. Going into the next block, I want to focus more on the listening side of communication, not just how I structure what I say."
+      },
+      {
+        "situation": "A colleague asks if the daily practice is actually making a difference.",
+        "category": "Workplace Communication",
+        "framework": "Headline → Detail → Next Step",
+        "guidance": "Casual but honest — give a specific example rather than a vague reassurance.",
+        "modelAnswer": "Honestly, yes — the clearest change is how much less I ramble when I'm put on the spot. Twenty days in, I'm noticing filler words and unclear explanations in the moment, not just afterward. Next, I'm planning to focus more on actually listening well, not just organizing what I say."
+      }
+    ]
+  }
+]
