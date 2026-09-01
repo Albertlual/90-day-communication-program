@@ -1,12 +1,17 @@
 # 90-Day Professional Communication & Career Development Program
 
+**Deploying this project?** See `DEPLOYMENT_GUIDE.md` for complete
+step-by-step instructions, and `PROJECT_HANDOVER_REPORT.md` for exactly
+what's built and what isn't.
+
 A multi-page, authenticated web app implementing a structured 90-day
 communication/career-development curriculum with progress tracking and
 Gemini-assisted evaluation of open-ended responses.
 
-**Current status:** Phase 1 (authentication foundation) implemented.
-See `PROJECT_CONTINUATION.md` for full status, architecture, and the exact
-next step — read that file first if you're picking this project back up.
+**Current status:** Days 1–60 of the curriculum are fully authored
+(Foundation + Development phases). Days 61–90 are a documented, postponed
+roadmap — see `PROJECT_CONTINUATION.md` §11. Phase 1 (authentication) is
+complete and working. See `PROJECT_HANDOVER_REPORT.md` for full status.
 
 ## Stack
 
