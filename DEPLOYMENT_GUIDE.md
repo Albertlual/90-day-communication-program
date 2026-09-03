@@ -177,8 +177,10 @@ ignore it automatically.
 
 ## Part 5 — Load the Curriculum Content Into Your Database
 
-The 60 days of curriculum content live as JSON files in the project, not
-yet in your database. Before testing, load them in:
+The 60 days of curriculum content live as six JSON files in
+`server/data/curriculum/days/` (`days-01-10.json` through `days-51-60.json`
+— **all six together, Days 1 through 60**). They are not yet in your
+database. Before testing, load them in:
 
 ```bash
 node server/scripts/validateCurriculum.js
@@ -191,20 +193,30 @@ database connection. You should see:
 ✓ All curriculum files passed validation.
 ```
 
+Note the count reported here: **"Validated 60 day(s) across 6 file(s)."**
+That's your confirmation all six batches are being read together, not just
+the most recently added one.
+
 Then, with your `.env` file's `MONGODB_URI` filled in, run:
 
 ```bash
 node server/scripts/seedCurriculum.js
 ```
 
-This connects to your MongoDB database and loads all 60 days of content
-plus the vocabulary terms into it. It's safe to run more than once — it
-updates existing content rather than duplicating it. You should see log
-lines ending with something like:
+This connects to your MongoDB database and loads **every day from every
+file in that folder — Days 1 through 60 in one run**, plus the vocabulary
+terms, into it. There is no way to seed only one batch; the script reads
+the entire directory every time it runs. It's also safe to run more than
+once — it updates existing content rather than duplicating it. You should
+see log lines ending with something like:
 
 ```
 Seed complete { filesProcessed: [...], daysSeededThisRun: 60, totalDailyProgramDocs: 60, totalVocabularyTermDocs: 342 }
 ```
+
+If `daysSeededThisRun` doesn't say `60`, something is wrong — check that
+all six files listed above are actually present in
+`server/data/curriculum/days/` before re-running.
 
 ---
 

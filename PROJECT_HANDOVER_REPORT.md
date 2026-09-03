@@ -105,9 +105,13 @@ re-run.
   — `GET /api/program/day/:dayNumber`, protected by `requireAuth`
 
 **Content status:** **60 of 90 days are fully authored and validated** —
-the entire Foundation phase (Days 1–30) and Development phase (Days 31–60).
-342 unique vocabulary terms, zero duplicates (independently verified, not
-just validator-reported). Days 61–90 (the Advanced phase) are a documented,
+the entire Foundation phase (Days 1–30) and Development phase (Days 31–60),
+stored as six files (`days-01-10.json` ... `days-51-60.json`). Running
+`seedCurriculum.js` always loads **all six files together — the full
+Days 1–60 range in one run** — there is no partial-seed mode; the script
+reads every `.json` file in the directory each time it runs. 342 unique
+vocabulary terms, zero duplicates (independently verified, not just
+validator-reported). Days 61–90 (the Advanced phase) are a documented,
 resumable postponed roadmap, not started — see §6 and
 `PROJECT_CONTINUATION.md` §11 for the exact plan.
 
