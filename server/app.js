@@ -6,6 +6,8 @@ const cookieParser = require('cookie-parser');
 const healthRoutes = require('./routes/healthRoutes');
 const authRoutes = require('./routes/authRoutes');
 const programRoutes = require('./routes/programRoutes');
+const progressRoutes = require('./routes/progressRoutes');
+const evaluationRoutes = require('./routes/evaluationRoutes');
 const errorHandler = require('./middleware/errorHandler');
 
 const app = express();
@@ -23,9 +25,9 @@ app.use(cookieParser());
 app.use('/api/health', healthRoutes);
 app.use('/api/auth', authRoutes);
 app.use('/api/program', programRoutes);
+app.use('/api/progress', progressRoutes);
+app.use('/api/evaluation', evaluationRoutes);
 // Future phases mount additional routers here:
-// app.use('/api/progress', progressRoutes);
-// app.use('/api/evaluate', evaluationRoutes);
 // app.use('/api/vocabulary', vocabularyRoutes);
 
 // --- Serve the built React app in production (single Render Web Service) ---
