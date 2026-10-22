@@ -12,6 +12,10 @@ const errorHandler = require('./middleware/errorHandler');
 
 const app = express();
 
+app.get('/healthcheck', (req, res) => {
+  res.status(200).json({ status: 'alive' });
+});
+
 app.use(
   cors({
     origin: process.env.CLIENT_URL || 'http://localhost:5173',

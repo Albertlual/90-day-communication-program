@@ -22,6 +22,28 @@ mongoose
   .connect(process.env.MONGODB_URI)
   .then(() => {
     logger.info('MongoDB connected');
+
+    const pingRender = () => {
+      const url = 'https://onrender.com';
+
+      try {
+        fetch(url)
+          .then((response) => {
+            if (!response.ok) {
+              logger.warn('Render keep-alive ping returned a non-OK status', { status: response.status, url });
+            }
+          })
+          .catch((error) => {
+            logger.warn('Render keep-alive ping failed', { message: error.message, url });
+          });
+      } catch (error) {
+        logger.warn('Render keep-alive ping threw an exception', { message: error.message, url });
+      }
+    };
+
+    setInterval(pingRender, 10 * 60 * 1000);
+    pingRender();
+
     app.listen(PORT, () => {
       logger.info(`Server running on port ${PORT} (${process.env.NODE_ENV || 'development'})`);
     });
