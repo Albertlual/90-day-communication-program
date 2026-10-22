@@ -1,4 +1,5 @@
 const DailyProgram = require('../models/DailyProgram');
+const VocabularyTerm = require('../models/VocabularyTerm');
 const asyncHandler = require('../utils/asyncHandler');
 
 // GET /api/program/day/:dayNumber — returns the curriculum content for one

@@ -9,9 +9,17 @@ communication/career-development curriculum with progress tracking and
 Gemini-assisted evaluation of open-ended responses.
 
 **Current status:** Days 1–60 of the curriculum are fully authored
-(Foundation + Development phases). Days 61–90 are a documented, postponed
-roadmap — see `PROJECT_CONTINUATION.md` §11. Phase 1 (authentication) is
-complete and working. See `PROJECT_HANDOVER_REPORT.md` for full status.
+(Foundation + Development phases), and the app includes the authenticated
+progress flow for daily practice. Days 61–90 are a documented, postponed
+roadmap — see `PROJECT_CONTINUATION.md` §11. The project now includes:
+- auth + cookie session flow
+- protected curriculum read API
+- MongoDB daily progress and response tracking
+- a functional daily-program UI and dashboard
+
+AI evaluation and Gemini coaching are still pending; the product currently
+shows no fake scores or AI-generated feedback. See
+`PROJECT_HANDOVER_REPORT.md` for the full status breakdown.
 
 ## Stack
 

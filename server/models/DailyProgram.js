@@ -89,6 +89,4 @@ const dailyProgramSchema = new mongoose.Schema(
   { timestamps: true }
 );
 
-dailyProgramSchema.index({ dayNumber: 1 }, { unique: true });
-
 module.exports = mongoose.model('DailyProgram', dailyProgramSchema);

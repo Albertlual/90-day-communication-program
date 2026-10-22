@@ -2,9 +2,12 @@
 
 **Handover date:** 2026-08-26
 **Scope covered:** Everything built through Day 60 of the curriculum, Phase 1
-(authentication) and part of Phase 2 (curriculum data + read API).
-**Status:** Deployment-ready for the current scope. Not a finished product —
-see §3 for an honest breakdown of what actually works today.
+(authentication), Phase 2 (curriculum data + read API), and Phase 3
+(progress persistence + daily-program UI flow).
+**Status:** Deployment-ready for the current scope for local and production build
+verification, with the AI evaluation layer still pending. This is a working
+MVP for daily learning flow and progress tracking, not a full Gemini-assisted
+coaching product.
 
 ---
 

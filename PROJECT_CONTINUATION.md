@@ -38,9 +38,18 @@ coaching-style feedback, called only from the backend.
 
 **Technology stack:**
 - Backend: Node.js, Express, MongoDB, Mongoose, JWT (httpOnly cookie), bcrypt, zod
-- Frontend: React + Vite + React Router (scaffolded; pages not built yet)
-- AI: Google Gemini API — backend-only, not yet integrated (starts Phase 4)
+- Frontend: React + Vite + React Router v7
+- AI: Google Gemini API — backend-only, not yet integrated (Phases 4–7 remain pending)
 - Deployment target: Render, single Web Service (Express serves the built React app)
+
+### Phase status
+
+| Phase | Status | Notes |
+|---|---|---|
+| Phase 1 | ✅ Complete | Auth, JWT cookie, requireAuth, protected routes |
+| Phase 2 | ✅ Complete | Curriculum model, seed/validation, 60 authored days |
+| Phase 3 | ✅ Complete | DailyProgress + UserResponse models, API, UI progression flow |
+| Phase 4–7 | ⏳ Pending | Gemini evaluation, AI coaching, advanced analytics |
 
 ---
 
